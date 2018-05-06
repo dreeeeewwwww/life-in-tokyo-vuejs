@@ -29,7 +29,7 @@ export default {
   name: 'App',
   data () {
     return {
-      appTitle: 'Life in Tokyo',
+      // appTitle: 'Life in Tokyo',
       navItems: [
         { title: 'Archive', path: '/archive' },
         { title: 'Biography', path: '/biography' },
@@ -37,6 +37,11 @@ export default {
         { title: 'Images', path: '/images' },
         { title: 'Video', path: '/video' }
       ]
+    }
+  },
+  computed: {
+    appTitle () {
+      return this.$store.state.appTitle
     }
   }
 }
