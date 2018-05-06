@@ -5,7 +5,7 @@ Vue.use(Vuex)
 
 export const store = new Vuex.Store({
   state: {
-    appTitle: 'foo'
+    appTitle: 'Life in Tokyo'
   },
   mutations: {},
   actions: {},
