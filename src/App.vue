@@ -6,14 +6,12 @@
           <router-link to="/">
             {{ appTitle }}
           </router-link>
-          <v-list>
-            <router-link
-              v-for="item in navItems"
-              :key="item.title"
-              :to="item.path">
-              {{ item.title }}&nbsp;
-            </router-link>
-          </v-list>
+          <router-link
+            v-for="item in navItems"
+            :key="item.title"
+            :to="item.path">
+            {{ item.title }}&nbsp;
+          </router-link>
         </div>
       </nav>
       <router-view/>
