@@ -1,6 +1,10 @@
+// Global styles imported into main.js
+
+// CDN
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css');
+@import url('https://use.fontawesome.com/releases/v5.0.12/css/all.css');
+
+// Core
 @import 'mixins';
 @import 'variables';
 @import 'tokyo';
-body{
-  background:#333;
-}
