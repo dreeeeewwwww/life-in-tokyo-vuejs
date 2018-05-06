@@ -7,7 +7,9 @@ const routerOptions = [
   { path: '/biography', component: 'biography' },
   { path: '/discography', component: 'discography' },
   { path: '/images', component: 'images' },
-  { path: '/video', component: 'video' }
+  { path: '/video', component: 'video' },
+  { path: '/404', component: 'notFound' },
+  { path: '*', redirect: '/404' }
 ]
 
 const routes = routerOptions.map(route => {

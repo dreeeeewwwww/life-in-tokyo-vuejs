@@ -4,9 +4,9 @@
     <div class="container">
       <div class="row">
         <div class="col-12 hello">
-          <nav>
+          <nav class="mt-3 pt-3 mb-3 pb-3">
             <ul>
-              <li>
+              <li class="logo">
                 <router-link to="/">
                   {{ appTitle }}
                 </router-link>
@@ -24,18 +24,20 @@
         </div>
       </div>
       <router-view/>
-      <div class="row row-bottom-60">
-        <div class="col-12">
-          <footer>
-            <ul>
-              <li>footer</li>
-              <li>|</li>
-              <li>See also: <a id="" href="http://www.nightporter.co.uk" target="_blank">nightporter.co.uk <i class="fa fa-external-link-square"></i></a></li>
-            </ul>
-            <p>2008-datefoo Life in Tokyo. Original content <i class="fas fa-creative-commons"></i> Attribution-NonCommercial-ShareAlike. <br />All other images, articles and video <i class="fa fa-copyright" aria-hidden="true"></i> their respective owners. For issues concerning the usage of this content please <a href="mailto:">contact us</a>. <br />Life in Tokyo is a fan-created archive and is in no way associated with the artists or their record companies.</p>
-          </footer>
+      <footer class="footer mt-3 pt-3">
+        <div class="row row-bottom-60">
+          <div class="col-12">
+
+              <ul>
+                <li>footer</li>
+                <li>|</li>
+                <li>See also: <a id="" href="http://www.nightporter.co.uk" target="_blank">nightporter.co.uk <i class="fa fa-external-link-square"></i></a></li>
+              </ul>
+              <p>2008-datefoo Life in Tokyo. Original content <i class="fas fa-creative-commons"></i> Attribution-NonCommercial-ShareAlike. <br />All other images, articles and video <i class="fa fa-copyright" aria-hidden="true"></i> their respective owners. For issues concerning the usage of this content please <a href="mailto:">contact us</a>. <br />Life in Tokyo is a fan-created archive and is in no way associated with the artists or their record companies.</p>
+
+          </div>
         </div>
-      </div>
+      </footer>
     </div>
 
   </div>
