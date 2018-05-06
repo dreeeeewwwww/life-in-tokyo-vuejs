@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    logo file
+    logo fileyaw
     <router-view/>
   </div>
 </template>
