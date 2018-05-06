@@ -7,10 +7,10 @@
 
 <script>
 export default {
-  name: 'index',
+  name: 'discography',
   data () {
     return {
-      msg: 'this is the index page',
+      msg: 'this is the discography page',
       foo: 'some other output'
     }
   }

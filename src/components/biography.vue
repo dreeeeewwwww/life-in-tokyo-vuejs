@@ -7,10 +7,10 @@
 
 <script>
 export default {
-  name: 'index',
+  name: 'biography',
   data () {
     return {
-      msg: 'this is the index page',
+      msg: 'this is the biography page',
       foo: 'some other output'
     }
   }

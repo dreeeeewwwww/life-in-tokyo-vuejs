@@ -7,10 +7,10 @@
 
 <script>
 export default {
-  name: 'index',
+  name: 'images',
   data () {
     return {
-      msg: 'this is the index page',
+      msg: 'this is the images page',
       foo: 'some other output'
     }
   }

@@ -1,5 +1,5 @@
 <template>
-  <div class=" hello">
+  <div class="hello">
     <h1>{{ msg }}</h1>
     <p><strong>{{ foo }}</strong></p>
   </div>
@@ -7,10 +7,10 @@
 
 <script>
 export default {
-  name: 'index',
+  name: 'archive',
   data () {
     return {
-      msg: 'this is the index page',
+      msg: 'this is the archive page',
       foo: 'some other output'
     }
   }
