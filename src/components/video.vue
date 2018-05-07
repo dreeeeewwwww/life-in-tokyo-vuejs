@@ -5,12 +5,14 @@
 </template>
 
 <script>
+import data from '../assets/data/videos.json'
 export default {
   name: 'video',
   data () {
     return {
       msg: 'Video',
-      foo: 'some other output'
+      foo: 'some other output',
+      data
     }
   }
 }

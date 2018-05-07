@@ -5,12 +5,14 @@
 </template>
 
 <script>
+import data from '../assets/data/images.json'
 export default {
   name: 'images',
   data () {
     return {
       msg: 'Images',
-      foo: 'some other output'
+      foo: 'some other output',
+      data
     }
   }
 }

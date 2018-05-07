@@ -13,10 +13,10 @@
           "album":"Tin Drum",
           "song":"Visions of China",
           "year":"1981",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"e4ClCAVVyys",
@@ -27,10 +27,10 @@
           "album":"Quiet Life",
           "song":"Quiet Life",
           "year":"1979",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"iL5tT456B24",
@@ -38,13 +38,13 @@
           "description":"VHS Comp",
           "body":"body",
           "artist":"Japan",
-          "album":,
-          "song":,
-          "year":,
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "album":"",
+          "song":"",
+          "year":"",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"rISfBbgFGIY",
@@ -55,25 +55,25 @@
           "album":"Adolescent Sex",
           "song":"Adolescent Sex",
           "year":"1978",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"WhC8LnFd2LE",
           "title":"Visions of China",
           "description":"foo",
-          "body":,
+          "body":"",
           "artist":"Japan",
-          "album":,
-          "song":,
-          "year":,
-          "day":,
-          "month":,
-          "show":,
-          "venue":
-        },
+          "album":"",
+          "song":"",
+          "year":"",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        }
       ]
     },
     {
@@ -84,36 +84,29 @@
           "embed":"-9l_VH4qZ3w",
           "title":"Oil on Canvas concert film",
           "description":"A blurry show at the Hammersmith Odeon",
-          "body":
-          "
-            <p>this was a concert at hammersmith odeon.</p>
-            <ul>
-              <li>Track title</li>
-              <li>Track title</li>
-            </ul>
-          ",
+          "body":"<p>this was a concert at hammersmith odeon.<\/p><ul><li>Track title<\/li><li>Track title<\/li><\/ul>",
           "artist":"Japan",
-          "album":,
-          "song":,
-          "year":,
-          "day":,
-          "month":,
-          "show":,
+          "album":"",
+          "song":"",
+          "year":"",
+          "day":"",
+          "month":"",
+          "show":"",
           "venue":"Hammersmith Odeon"
         },
         {
           "embed":"ZCH02nEmvUs",
           "title":"Old Grey Whistle Test",
           "description":"Swing + My New Career",
-          "body":,
+          "body":"",
           "artist":"Japan",
           "album":"Gentlemen Take Polaroids",
           "song":"Swing + My New Career",
-          "year":,
-          "day":,
-          "month":,
+          "year":"",
+          "day":"",
+          "month":"",
           "show":"Old Grey Whistle Test",
-          "venue":
+          "venue":""
         },
         {
           "embed":"uaSak_o9IEQ",
@@ -127,7 +120,7 @@
           "day":"22",
           "month":"10",
           "show":"Old Grey Whistle Test",
-          "venue":
+          "venue":""
         },
         {
           "embed":"7zzLU1ato2w",
@@ -141,21 +134,21 @@
           "day":"18",
           "month":"03",
           "show":"Top of the Pops",
-          "venue":
+          "venue":""
         },
         {
           "embed":"m2MZemED52M",
           "title":"Megahertz? Live in Paris",
           "description":"Gentlemen Take Polaroids",
-          "body":,
-          "artist":,
-          "album":,
+          "body":"",
+          "artist":"Japan",
+          "album":"",
           "song":"Gentlemen Take Polaroids",
           "year":"1982",
           "day":"11",
           "month":"10",
           "show":"Megahertz",
-          "venue":
+          "venue":""
         },
         {
           "embed":"5PA1PUpC1Ts",
@@ -169,7 +162,7 @@
           "day":"20",
           "month":"11",
           "show":"Oxford Road Show",
-          "venue":
+          "venue":""
         },
         {
           "embed":"8JF25k0Rm0k",
@@ -183,7 +176,7 @@
           "day":"20",
           "month":"11",
           "show":"Oxford Road Show",
-          "venue":
+          "venue":""
         },
         {
           "embed":"HoYVlFYtj8Y",
@@ -197,18 +190,13 @@
           "day":"24",
           "month":"09",
           "show":"Top of the Pops",
-          "venue":
+          "venue":""
         },
         {
           "embed":"xvF6f3ZjuII",
           "title":"Town 5",
           "description":"Quiet Life and interview",
-          "body":
-          "
-            <p>10.14.1980</p>
-            <p>sooo uncomfortable</p>
-            <p>Thanks to Paul Rymer @ <a href=\"http://www.nightporter.co.uk\">Nightporter</a>!</p>
-          ",
+          "body":"<p>10.14.1980<\/p><p>sooo uncomfortable<\/p><p>Thanks to Paul Rymer @ <a href=\"http://www.nightporter.co.uk\">Nightporter<\/a>!<\/p>",
           "artist":"Japan",
           "album":"Quiet Life",
           "song":"Quiet Life",
@@ -216,20 +204,13 @@
           "day":"14",
           "month":"10",
           "show":"Town 5",
-          "venue":
+          "venue":""
         },
         {
           "embed":"sMezvZyf-h8",
           "title":"Adolescent Sex",
           "description":"Dutch TV TopPop",
-          "body":
-          "
-            <p>Dutch TV.</p>
-            <ul>
-              <li>Track title</li>
-              <li>Track title</li>
-            </ul>
-          ",
+          "body":"<p>Dutch TV.<\/p><ul><li>Track title<\/li><li>Track title<\/li><\/ul>",
           "artist":"Japan",
           "album":"Adolescent Sex",
           "song":"Adolescent Sex",
@@ -237,8 +218,8 @@
           "day":"17",
           "month":"02",
           "show":"TopPop",
-          "venue":
-        },
+          "venue":""
+        }
       ]
     },
     {
@@ -253,11 +234,11 @@
           "artist":"Dalis Car",
           "album":"The Waking Hour",
           "song":"The Judgement is the Mirror",
-          "year":,
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "year":"",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"bp-qt5gRqA4",
@@ -267,11 +248,11 @@
           "artist":"Dalis Car",
           "album":"The Waking Hour",
           "song":"His Box",
-          "year":,
-          "day":,
-          "month":,
+          "year":"",
+          "day":"",
+          "month":"",
           "show":"Old Grey Whistle Test",
-          "venue":
+          "venue":""
         },
         {
           "embed":"ZMEV04s---Q",
@@ -281,11 +262,11 @@
           "artist":"The Dolphin Brothers",
           "album":"Catch the Fall",
           "song":"Second Sight + Pushing the River",
-          "year":,
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "year":"",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"_u6bmagKNfc",
@@ -296,10 +277,10 @@
           "album":"Bamboo Houses",
           "song":"Bamboo Houses",
           "year":"198x",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"x1YkHJJi-tc",
@@ -310,10 +291,10 @@
           "album":"Merry Christmas Mr. Lawrence",
           "song":"Forbidden Colors",
           "year":"198x",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"uRHoKJZGiJM",
@@ -321,13 +302,13 @@
           "description":"The Other Side of Life acoustic",
           "body":"Body",
           "artist":"David Sylivan",
-          "album":,
-          "song":,
+          "album":"",
+          "song":"",
           "year":"1983",
           "day":"01",
           "month":"17",
           "show":"Riverside",
-          "venue":
+          "venue":""
         },
         {
           "embed":"W14YmRABFFg",
@@ -335,13 +316,13 @@
           "description":"Poetry thing on OGWT",
           "body":"Body",
           "artist":"Mick Karn",
-          "album":,
-          "song":,
+          "album":"",
+          "song":"",
           "year":"1982",
           "day":"03",
           "month":"11",
           "show":"Old Grey Whistle Test",
-          "venue":
+          "venue":""
         },
         {
           "embed":"mveB-sh4xsk",
@@ -352,10 +333,10 @@
           "album":"Never for Ever",
           "song":"The Wedding List",
           "year":"1982",
-          "day":,
-          "month":,
+          "day":"",
+          "month":"",
           "show":"Prince's Trust",
-          "venue":
+          "venue":""
         },
         {
           "embed":"80UfK73RgIY",
@@ -366,10 +347,10 @@
           "album":"Brilliant Trees",
           "song":"Red Guitar",
           "year":"1984",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"Y9LWfVjXXAU",
@@ -380,10 +361,10 @@
           "album":"Brilliant Trees",
           "song":"The Ink in the Well",
           "year":"1984",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"6J_czXr23cQ",
@@ -394,11 +375,11 @@
           "album":"Gone to Earth",
           "song":"River Man",
           "year":"1987",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
-        },
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        }
       ]
     },
     {
@@ -417,7 +398,7 @@
           "day":"11",
           "month":"20 ",
           "show":"Riverside",
-          "venue":
+          "venue":""
         },
         {
           "embed":"S1Bes4tFC6I",
@@ -431,7 +412,7 @@
           "day":"31",
           "month":"01 ",
           "show":"Riverside",
-          "venue":
+          "venue":""
         },
         {
           "embed":"o1fpxLM3H7k",
@@ -439,13 +420,13 @@
           "description":"Riverside 198x",
           "body":"body",
           "artist":"Steve Jansen",
-          "album":,
-          "song":,
+          "album":"",
+          "song":"",
           "year":"198x",
-          "day":,
-          "month":,
+          "day":"",
+          "month":"",
           "show":"Riverside",
-          "venue":
+          "venue":""
         },
         {
           "embed":"OHV0JJz-hVU",
@@ -453,13 +434,13 @@
           "description":"Riverside 198x",
           "body":"body",
           "artist":"Steve Jansen, Richard Barbieri",
-          "album":,
-          "song":,
+          "album":"",
+          "song":"",
           "year":"198x",
-          "day":,
-          "month":,
-          "show":,
-          "venue":
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
         },
         {
           "embed":"-vntV1Jj3No",
@@ -468,13 +449,13 @@
           "body":"body",
           "artist":"Mick Karn",
           "album":"The Waking Hour",
-          "song":,
+          "song":"",
           "year":"198x",
-          "day":,
-          "month":,
+          "day":"",
+          "month":"",
           "show":"The Tube",
-          "venue":
-        },
+          "venue":""
+        }
       ]
     }
   ]
