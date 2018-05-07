@@ -1,7 +1,6 @@
 <template>
   <div class=" hello">
     <h1>{{ msg }}</h1>
-    <p><strong>{{ foo }}</strong></p>
   </div>
 </template>
 
@@ -10,7 +9,7 @@ export default {
   name: 'video',
   data () {
     return {
-      msg: 'this is the video page',
+      msg: 'Video',
       foo: 'some other output'
     }
   }

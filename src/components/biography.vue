@@ -3,17 +3,14 @@
 
     <section id="children" class="mb-3 pb-3">
       <div class="row">
-        <div class="col-md-6 offset-md-3">
-          <img class="img-fluid d-block" src="../assets/images/biography_glam.jpg" />
-          <cite>Japan in 1978. Mick Karn, Rob Dean, David Sylvian, Richard Barbieri and Steve Jansen.</cite>
-        </div>
-      </div>
-      <div class="row">
         <div class="col-3">
-          <h1>CHILDREN OF GLAM</h1>
-          <h2>1974 - 1978</h2>
+          <h1>Biography</h1>
         </div>
         <div class="col-6">
+          <img class="img-fluid" src="../assets/images/biography_glam.jpg" />
+          <cite>Japan in 1978. Mick Karn, Rob Dean, David Sylvian, Richard Barbieri and Steve Jansen.</cite>
+          <h1>CHILDREN OF GLAM</h1>
+          <h2 class="mb-3 pb-3">1974 - 1978</h2>
           <p>
             Looking and sounding a bit like The New York Doll"s snotty, misguided younger brothers, the generally
             derivative glam leanings of British band Japan"s formative years gives one little indication of the critical and commercial success the group would achieve by the time of their disbandment in 1982.
@@ -31,13 +28,16 @@
       </div>
     </section>
 
-    <section id="quiet">
+    <section id="quiet" class="mb-3 pb-3">
       <img class="img-fluid d-block" src="../assets/images/biography_moroder.jpg" />
       <cite>In the studio with Moroder, Los Angeles 1979.</cite>
-      <h1>A QUIET LIFE IN TOKYO</h1>
-      <h2>1979 - 1980</h2>
+
       <div class="row">
-        <div class="col-md-8 offset-md-1">
+        <div class="col-3">
+          <h1>A QUIET LIFE IN TOKYO</h1>
+          <h2>1979 - 1980</h2>
+        </div>
+        <div class="col-6">
           <p>
             Aligning themselves with disco czar Giorgio Moroder, the 1979 single "Life in Tokyo" marked a major turning point for Japan. Already having written several new songs in Moroder"s style, including the later released "European Son," the caterpillar-lipped producer seemed a likely choice for the band. Now singing with a bit of a shouty croon, the "Life in Tokyo" Sylvian positioned himself as a sort of Bryan Ferry for the coming decade, complete with clipped coif and red leather blazer. Backed by a precision beat from Jansen, wiggly bass
             and spooky woodwinds from Karn, icy synthesizers from Barbieri, and atmospheric guitar from Dean, the single laid a good deal of the groundwork for what the band would create over their next three albums.
@@ -54,27 +54,35 @@
       </div>
     </section>
 
-    <section id="new-romance">
-      <img class="img-fluid mx-auto d-block" src="../assets/images/biography_backstage.jpg" /><br />Sylvian, Karn, Barbieri, Jansen and guitarist Masami Tsuchyia backstage during the "Sons of Pioneers" tour, 1982.
-      <h1>KINGS OF NEW ROMANCE</h1><br /><h2>1980 - 1982</h2>
-        <p>
-          Picking up musically where "Quiet Life," and visually where "I Second that Emotion" left off, their next album, 1980"s "Gentlemen Take Polaroids," marked another exponential leap in style and substance. Their first of two albums on Virgin Records, "Gentlemen Take Polaroids" perfectly pairs Sylvian"s svelte crooning of his peculiar, yet nonetheless evocative, lyrics with the increasingly unique musical voices of his band mates.
-          The LP is notable as it includes the first of many collaborations between Sylvian and Japanese music
-          icon Ryuichi Sakamoto (on the track, "Taking Islands in Africa") and also because it is the last album recorded with guitarist Rob Dean.
+    <section id="new-romance" class="mb-3 pb-3">
+      <img class="img-fluid" src="../assets/images/biography_backstage.jpg" />
+      <cite>Sylvian, Karn, Barbieri, Jansen and guitarist Masami Tsuchyia backstage during the "Sons of Pioneers" tour, 1982.</cite>
+
+      <div class="row">
+        <div class="col-3">
+          <h1>KINGS OF NEW ROMANCE</h1><br /><h2>1980 - 1982</h2>
+        </div>
+        <div class="col-6">
+          <p>
+            Picking up musically where "Quiet Life," and visually where "I Second that Emotion" left off, their next album, 1980"s "Gentlemen Take Polaroids," marked another exponential leap in style and substance. Their first of two albums on Virgin Records, "Gentlemen Take Polaroids" perfectly pairs Sylvian"s svelte crooning of his peculiar, yet nonetheless evocative, lyrics with the increasingly unique musical voices of his band mates.
+            The LP is notable as it includes the first of many collaborations between Sylvian and Japanese music
+            icon Ryuichi Sakamoto (on the track, "Taking Islands in Africa") and also because it is the last album recorded with guitarist Rob Dean.
+            </p>
+            <p>
+            Dean's departure from the group, prior to the "Visions of China" tour in 1981,  stemmed from the band"s increasing emphasis on synthesizers. In a 1986 interview Dean said, "...I'd really left before I left...I wasn't that much involved and it was my fault...I guess we all knew there was going to be a change" <span class="lilreference">9</span>. Ironically, however, the group enlisted David Rhodes to play guitar on tour in 1981, and later recruited Ippu-Do front man Masami Tsuchyia to play guitar on their final tour in 1982.
+            </p>
+            <p>
+            November 1981 saw the release of Japan"s final album, "Tin Drum." Widely touted as the band"s masterpiece, the LP peaked at 12 on the UK charts and produced the unlikely top 5 single, "Ghosts." With a brooding vocal, sparse synthesizers and even sparser percussion, it's a wonder that they got Virgin to even consider the track as a single. Sylvian said, "Writing 'Ghosts' was a turning point for me...I'd felt I'd had the breakthrough I was looking for. I'd touched upon something true to myself and expressed it in a way that didn't leave me
+            feeling overly vulnerable" <span class="lilreference">10</span>. The rest of the songs, from the jerky white funk of "The Art of Parties," to the epic beat of "Visions of China," make "Tin Drum" stand as one of the most completely solid albums of the 1980s. Though, with Mao on the cover and song titles like, "Canton," "Visions of China," and, "Cantonese Boy," it does make one wonder why a band called Japan is so into China.
           </p>
           <p>
-          Dean's departure from the group, prior to the "Visions of China" tour in 1981,  stemmed from the band"s increasing emphasis on synthesizers. In a 1986 interview Dean said, "...I'd really left before I left...I wasn't that much involved and it was my fault...I guess we all knew there was going to be a change" <span class="lilreference">9</span>. Ironically, however, the group enlisted David Rhodes to play guitar on tour in 1981, and later recruited Ippu-Do front man Masami Tsuchyia to play guitar on their final tour in 1982.
+            Riding the wave of "Tin Drum"s" sudden success, the band embarked on two major tours, "Visions of China" in 1981 and "Sons of Pioneers" in 1982. The latter  produced the concert film "Oil on Canvas," filmed at London"s Hammersmith Odeon, as well as a live double LP of the same name. Around this time Ariola-Hansa, much to the band's dismay, leapt on the opportunity to re-issue Japan's back catalog. Years after their original release, tracks like "I Second That Emotion," "Quiet Life," and "European Son" (which was previously only the B-side of singles), managed to hit the charts. It must have been quite spectacular for newer fans, as record shelves were flooded with five albums worth of "new" material.
           </p>
           <p>
-          November 1981 saw the release of Japan"s final album, "Tin Drum." Widely touted as the band"s masterpiece, the LP peaked at 12 on the UK charts and produced the unlikely top 5 single, "Ghosts." With a brooding vocal, sparse synthesizers and even sparser percussion, it's a wonder that they got Virgin to even consider the track as a single. Sylvian said, "Writing 'Ghosts' was a turning point for me...I'd felt I'd had the breakthrough I was looking for. I'd touched upon something true to myself and expressed it in a way that didn't leave me
-          feeling overly vulnerable" <span class="lilreference">10</span>. The rest of the songs, from the jerky white funk of "The Art of Parties," to the epic beat of "Visions of China," make "Tin Drum" stand as one of the most completely solid albums of the 1980s. Though, with Mao on the cover and song titles like, "Canton," "Visions of China," and, "Cantonese Boy," it does make one wonder why a band called Japan is so into China.
-        </p>
-        <p>
-          Riding the wave of "Tin Drum"s" sudden success, the band embarked on two major tours, "Visions of China" in 1981 and "Sons of Pioneers" in 1982. The latter  produced the concert film "Oil on Canvas," filmed at London"s Hammersmith Odeon, as well as a live double LP of the same name. Around this time Ariola-Hansa, much to the band's dismay, leapt on the opportunity to re-issue Japan's back catalog. Years after their original release, tracks like "I Second That Emotion," "Quiet Life," and "European Son" (which was previously only the B-side of singles), managed to hit the charts. It must have been quite spectacular for newer fans, as record shelves were flooded with five albums worth of "new" material.
-        </p>
-        <p>
-          Despite their successful record and tours, the band, after much press speculation, decided to call it quits after the "Sons of Pioneers" tour. Long-running differences between Karn and Sylvian are cited as the cause for the break up, which likely came to a head when Karn"s girlfriend, Yuka Fujii, left him for Sylvian in '81 <span class="lilreference">11</span>. Fujii had previously been a frequent collaborator with Japan, providing artwork for record sleeves and even singing backing vocals on, "Tin Drum." Under the advisement of the record company, Japan held things together up until their final release, the live album, "Oil on Canvas," before finally parting ways.
-        </p>
+            Despite their successful record and tours, the band, after much press speculation, decided to call it quits after the "Sons of Pioneers" tour. Long-running differences between Karn and Sylvian are cited as the cause for the break up, which likely came to a head when Karn"s girlfriend, Yuka Fujii, left him for Sylvian in '81 <span class="lilreference">11</span>. Fujii had previously been a frequent collaborator with Japan, providing artwork for record sleeves and even singing backing vocals on, "Tin Drum." Under the advisement of the record company, Japan held things together up until their final release, the live album, "Oil on Canvas," before finally parting ways.
+          </p>
+        </div>
+      </div>
     </section>
 
     <section id="solo">

@@ -1,7 +1,6 @@
 <template>
   <div class=" hello">
     <h1>{{ msg }}</h1>
-    <p><strong>{{ foo }}</strong></p>
   </div>
 </template>
 
@@ -10,7 +9,7 @@ export default {
   name: 'discography',
   data () {
     return {
-      msg: 'this is the discography page',
+      msg: 'Discography',
       foo: 'some other output'
     }
   }
