@@ -225,7 +225,7 @@
           "month":"06",
           "day":"01",
           "venue":"Mick Karn's brother's wedding",
-          "city-country":"-",
+          "city_country":"-",
           "price":""
         },
         {
@@ -238,7 +238,7 @@
           "month":"04",
           "day":"",
           "venue":"The Bunch of Grapes",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -251,7 +251,7 @@
           "month":"02",
           "day":"14",
           "venue":"Goldsmith's College",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -264,7 +264,7 @@
           "month":"",
           "day":"",
           "venue":"Loughborough University",
-          "city-country":"UK",
+          "city_country":"UK",
           "price":""
         },
         {
@@ -277,7 +277,7 @@
           "month":"",
           "day":"",
           "venue":"Lewisham Borough Social Club",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -290,7 +290,7 @@
           "month":"",
           "day":"",
           "venue":"Goldsmith's Youth Centre, Brockley",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -303,7 +303,7 @@
           "month":"",
           "day":"",
           "venue":"The Hope & Anchor",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -316,7 +316,7 @@
           "month":"02",
           "day":"",
           "venue":"The Rock Garden",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -329,7 +329,7 @@
           "month":"",
           "day":"",
           "venue":"Big End Club",
-          "city-country":"Munich",
+          "city_country":"Munich",
           "price":""
         },
         {
@@ -342,7 +342,7 @@
           "month":"05",
           "day":"10",
           "venue":"Railway Hotel, Putney",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -355,7 +355,7 @@
           "month":"08",
           "day":"12",
           "venue":"Music Machine",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -368,7 +368,7 @@
           "month":"08",
           "day":"",
           "venue":"Anglsea",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -381,7 +381,7 @@
           "month":"08",
           "day":"22",
           "venue":"Village Inn, Wembley",
-          "city-country":"London",
+          "city_country":"London",
           "price":"Free"
         },
         {
@@ -394,7 +394,7 @@
           "month":"08",
           "day":"29",
           "venue":"The Rock Garden",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -407,7 +407,7 @@
           "month":"09",
           "day":"01",
           "venue":"The Greyhound",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -420,7 +420,7 @@
           "month":"09",
           "day":"17",
           "venue":"The Marquee",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -433,7 +433,7 @@
           "month":"10",
           "day":"13",
           "venue":"-",
-          "city-country":"UK",
+          "city_country":"UK",
           "price":""
         },
         {
@@ -446,7 +446,7 @@
           "month":"12",
           "day":"",
           "venue":"The Red Cow, Hammersmith",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -459,7 +459,7 @@
           "month":"01",
           "day":"07",
           "venue":"The Red Cow, Hammersmith",
-          "city-country":"London",
+          "city_country":"London",
           "price":"Free"
         },
         {
@@ -472,7 +472,7 @@
           "month":"01",
           "day":"21",
           "venue":"Loughborough College",
-          "city-country":"UK",
+          "city_country":"UK",
           "price":"&pound;1.00/1.20"
         },
         {
@@ -485,7 +485,7 @@
           "month":"02",
           "day":"11",
           "venue":"College of Further Education",
-          "city-country":"Oxford",
+          "city_country":"Oxford",
           "price":""
         },
         {
@@ -498,7 +498,7 @@
           "month":"03",
           "day":"04",
           "venue":"Music Machine, Camden",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -511,7 +511,7 @@
           "month":"04",
           "day":"27",
           "venue":"Colston Hall",
-          "city-country":"Bristol",
+          "city_country":"Bristol",
           "price":""
         },
         {
@@ -524,7 +524,7 @@
           "month":"04",
           "day":"28",
           "venue":"Free Trade Hall or Manchester Apollo [?]",
-          "city-country":"Manchester",
+          "city_country":"Manchester",
           "price":""
         },
         {
@@ -537,7 +537,7 @@
           "month":"04",
           "day":"29",
           "venue":"Glasgow Apollo",
-          "city-country":"Glasgow",
+          "city_country":"Glasgow",
           "price":""
         },
         {
@@ -550,7 +550,7 @@
           "month":"04",
           "day":"30",
           "venue":"Newcastle City Hall",
-          "city-country":"Newcastle",
+          "city_country":"Newcastle",
           "price":""
         },
         {
@@ -563,7 +563,7 @@
           "month":"05",
           "day":"01",
           "venue":"Birmingham Odeon",
-          "city-country":"Birmingham",
+          "city_country":"Birmingham",
           "price":""
         },
         {
@@ -576,7 +576,7 @@
           "month":"05",
           "day":"03",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -589,7 +589,7 @@
           "month":"05",
           "day":"04",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -602,7 +602,7 @@
           "month":"05",
           "day":"30",
           "venue":"Liverpool Empire",
-          "city-country":"Liverpool",
+          "city_country":"Liverpool",
           "price":""
         },
         {
@@ -615,7 +615,7 @@
           "month":"05",
           "day":"31",
           "venue":"Edinburgh Odeon",
-          "city-country":"Edinburgh",
+          "city_country":"Edinburgh",
           "price":""
         },
         {
@@ -628,7 +628,7 @@
           "month":"06",
           "day":"01",
           "venue":"Newcastle City Hall",
-          "city-country":"Newcastle",
+          "city_country":"Newcastle",
           "price":""
         },
         {
@@ -641,7 +641,7 @@
           "month":"06",
           "day":"02",
           "venue":"De Montford Hall",
-          "city-country":"Leicester",
+          "city_country":"Leicester",
           "price":""
         },
         {
@@ -654,7 +654,7 @@
           "month":"06",
           "day":"03",
           "venue":"Winter Gardens",
-          "city-country":"Bournemouth",
+          "city_country":"Bournemouth",
           "price":""
         },
         {
@@ -667,7 +667,7 @@
           "month":"06",
           "day":"04",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -680,7 +680,7 @@
           "month":"07",
           "day":"17",
           "venue":"Camden Music Machine",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -693,7 +693,7 @@
           "month":"07",
           "day":"31",
           "venue":"Camden Music Machine",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -706,7 +706,7 @@
           "month":"08",
           "day":"01",
           "venue":"Camden Music Machine",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -719,7 +719,7 @@
           "month":"08",
           "day":"02",
           "venue":"Camden Music Machine",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -732,7 +732,7 @@
           "month":"08",
           "day":"05",
           "venue":"St Albans City Hall",
-          "city-country":"St Albans",
+          "city_country":"St Albans",
           "price":""
         },
         {
@@ -745,7 +745,7 @@
           "month":"08",
           "day":"14",
           "venue":"Camden Music Machine",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -758,7 +758,7 @@
           "month":"08",
           "day":"21",
           "venue":"Tiffany's",
-          "city-country":"Edinburgh",
+          "city_country":"Edinburgh",
           "price":""
         },
         {
@@ -771,7 +771,7 @@
           "month":"08",
           "day":"31",
           "venue":"Camden Music Machine",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -784,7 +784,7 @@
           "month":"08",
           "day":"",
           "venue":"Batschkapp Club",
-          "city-country":"Frankfurt",
+          "city_country":"Frankfurt",
           "price":""
         },
         {
@@ -797,7 +797,7 @@
           "month":"09",
           "day":"12",
           "venue":"Camden Music Machine",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -810,7 +810,7 @@
           "month":"11",
           "day":"",
           "venue":"Dingwalls, Camden",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -823,7 +823,7 @@
           "month":"11",
           "day":"06",
           "venue":"The Starwood",
-          "city-country":"Los Angeles",
+          "city_country":"Los Angeles",
           "price":""
         },
         {
@@ -836,7 +836,7 @@
           "month":"11",
           "day":"07",
           "venue":"Old Waldorf",
-          "city-country":"San Francisco",
+          "city_country":"San Francisco",
           "price":""
         },
         {
@@ -849,7 +849,7 @@
           "month":"11",
           "day":"09",
           "venue":"-",
-          "city-country":"Chicago",
+          "city_country":"Chicago",
           "price":""
         },
         {
@@ -862,7 +862,7 @@
           "month":"11",
           "day":"10",
           "venue":"Hurrahs",
-          "city-country":"New York",
+          "city_country":"New York",
           "price":""
         },
         {
@@ -875,7 +875,7 @@
           "month":"11",
           "day":"11",
           "venue":"Hurrahs",
-          "city-country":"New York",
+          "city_country":"New York",
           "price":""
         },
         {
@@ -888,7 +888,7 @@
           "month":"11",
           "day":"12",
           "venue":"Paradise Rock Club",
-          "city-country":"Boston",
+          "city_country":"Boston",
           "price":""
         },
         {
@@ -901,7 +901,7 @@
           "month":"11",
           "day":"17",
           "venue":"Crumpets",
-          "city-country":"Batley",
+          "city_country":"Batley",
           "price":""
         },
         {
@@ -914,7 +914,7 @@
           "month":"11",
           "day":"18",
           "venue":"Mayflower",
-          "city-country":"Manchester",
+          "city_country":"Manchester",
           "price":""
         },
         {
@@ -927,7 +927,7 @@
           "month":"11",
           "day":"19",
           "venue":"Fforde Grene Hotel",
-          "city-country":"Leeds",
+          "city_country":"Leeds",
           "price":"cancelled"
         },
         {
@@ -940,7 +940,7 @@
           "month":"11",
           "day":"24",
           "venue":"Sheffield Polytechnic",
-          "city-country":"Sheffield",
+          "city_country":"Sheffield",
           "price":"cancelled"
         },
         {
@@ -953,7 +953,7 @@
           "month":"11",
           "day":"25",
           "venue":"Southhampton University",
-          "city-country":"Southampton",
+          "city_country":"Southampton",
           "price":""
         },
         {
@@ -966,7 +966,7 @@
           "month":"11",
           "day":"26",
           "venue":"Lyceum",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -979,7 +979,7 @@
           "month":"11",
           "day":"29",
           "venue":"Sheffield Polytechnic",
-          "city-country":"Sheffield",
+          "city_country":"Sheffield",
           "price":""
         },
         {
@@ -992,7 +992,7 @@
           "month":"11",
           "day":"30",
           "venue":"Barbarella's Club",
-          "city-country":"Birmingham",
+          "city_country":"Birmingham",
           "price":""
         },
         {
@@ -1005,7 +1005,7 @@
           "month":"12",
           "day":"01",
           "venue":"Nottingham University",
-          "city-country":"Nottingham",
+          "city_country":"Nottingham",
           "price":""
         },
         {
@@ -1018,7 +1018,7 @@
           "month":"12",
           "day":"02",
           "venue":"Northampton Cricket Club",
-          "city-country":"Northampton",
+          "city_country":"Northampton",
           "price":""
         },
         {
@@ -1031,7 +1031,7 @@
           "month":"12",
           "day":"07",
           "venue":"Leeds Polytechnic",
-          "city-country":"Leeds",
+          "city_country":"Leeds",
           "price":""
         },
         {
@@ -1044,7 +1044,7 @@
           "month":"12",
           "day":"09",
           "venue":"Mayflower",
-          "city-country":"Manchester",
+          "city_country":"Manchester",
           "price":""
         },
         {
@@ -1057,7 +1057,7 @@
           "month":"03",
           "day":"05",
           "venue":"Budokan",
-          "city-country":"Tokyo",
+          "city_country":"Tokyo",
           "price":""
         },
         {
@@ -1070,7 +1070,7 @@
           "month":"03",
           "day":"06",
           "venue":"Budokan",
-          "city-country":"Tokyo",
+          "city_country":"Tokyo",
           "price":""
         },
         {
@@ -1083,7 +1083,7 @@
           "month":"03",
           "day":"07",
           "venue":"Shi Kohkaido",
-          "city-country":"Nagoya",
+          "city_country":"Nagoya",
           "price":""
         },
         {
@@ -1096,7 +1096,7 @@
           "month":"03",
           "day":"09",
           "venue":"Kyuden Kinen Taikukan",
-          "city-country":"Fukuoka",
+          "city_country":"Fukuoka",
           "price":""
         },
         {
@@ -1109,7 +1109,7 @@
           "month":"03",
           "day":"10",
           "venue":"Bankokuhaku Hall",
-          "city-country":"Osaka",
+          "city_country":"Osaka",
           "price":""
         },
         {
@@ -1122,7 +1122,7 @@
           "month":"03",
           "day":"11",
           "venue":"-",
-          "city-country":"Osaka",
+          "city_country":"Osaka",
           "price":""
         },
         {
@@ -1135,7 +1135,7 @@
           "month":"03",
           "day":"25",
           "venue":"Schwabinger Brau",
-          "city-country":"Munich",
+          "city_country":"Munich",
           "price":"13 DM"
         },
         {
@@ -1148,7 +1148,7 @@
           "month":"03",
           "day":"27",
           "venue":"-",
-          "city-country":"Berlin",
+          "city_country":"Berlin",
           "price":""
         },
         {
@@ -1161,7 +1161,7 @@
           "month":"03",
           "day":"28",
           "venue":"Hamburg Musichalle",
-          "city-country":"Hamburg",
+          "city_country":"Hamburg",
           "price":""
         },
         {
@@ -1174,7 +1174,7 @@
           "month":"03",
           "day":"29",
           "venue":"-",
-          "city-country":"Mannheim",
+          "city_country":"Mannheim",
           "price":""
         },
         {
@@ -1187,7 +1187,7 @@
           "month":"03",
           "day":"30",
           "venue":"-",
-          "city-country":"Wiesbaden",
+          "city_country":"Wiesbaden",
           "price":""
         },
         {
@@ -1200,7 +1200,7 @@
           "month":"04",
           "day":"01",
           "venue":"-",
-          "city-country":"Nijmegen",
+          "city_country":"Nijmegen",
           "price":""
         },
         {
@@ -1213,7 +1213,7 @@
           "month":"04",
           "day":"02",
           "venue":"Oosterpoort",
-          "city-country":"Groningen",
+          "city_country":"Groningen",
           "price":""
         },
         {
@@ -1226,7 +1226,7 @@
           "month":"04",
           "day":"03",
           "venue":"-",
-          "city-country":"Germany",
+          "city_country":"Germany",
           "price":""
         },
         {
@@ -1239,7 +1239,7 @@
           "month":"04",
           "day":"04",
           "venue":"-",
-          "city-country":"Antwerp",
+          "city_country":"Antwerp",
           "price":""
         },
         {
@@ -1252,7 +1252,7 @@
           "month":"04",
           "day":"05",
           "venue":"Stadsgehoorzaal",
-          "city-country":"Leiden",
+          "city_country":"Leiden",
           "price":""
         },
         {
@@ -1265,7 +1265,7 @@
           "month":"04",
           "day":"06",
           "venue":"Junushoff",
-          "city-country":"Wageningen",
+          "city_country":"Wageningen",
           "price":""
         },
         {
@@ -1278,7 +1278,7 @@
           "month":"04",
           "day":"07",
           "venue":"Paradiso",
-          "city-country":"Amsterdam",
+          "city_country":"Amsterdam",
           "price":""
         },
         {
@@ -1291,7 +1291,7 @@
           "month":"04",
           "day":"08",
           "venue":"Schouwburg",
-          "city-country":"Sittard",
+          "city_country":"Sittard",
           "price":""
         },
         {
@@ -1304,7 +1304,7 @@
           "month":"04",
           "day":"12",
           "venue":"Rainbow Theatre",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1317,7 +1317,7 @@
           "month":"06",
           "day":"16",
           "venue":"Maarsseveense Plassen",
-          "city-country":"Amsterdam",
+          "city_country":"Amsterdam",
           "price":""
         },
         {
@@ -1330,7 +1330,7 @@
           "month":"11",
           "day":"24",
           "venue":"Ryerson Theatre",
-          "city-country":"Toronto",
+          "city_country":"Toronto",
           "price":""
         },
         {
@@ -1343,7 +1343,7 @@
           "month":"01",
           "day":"30",
           "venue":"The Venue",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1356,7 +1356,7 @@
           "month":"03",
           "day":"04",
           "venue":"The Venue",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1369,7 +1369,7 @@
           "month":"03",
           "day":"05",
           "venue":"The Venue",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1382,7 +1382,7 @@
           "month":"03",
           "day":"16",
           "venue":"Budokan",
-          "city-country":"Tokyo",
+          "city_country":"Tokyo",
           "price":""
         },
         {
@@ -1395,7 +1395,7 @@
           "month":"03",
           "day":"19",
           "venue":"Festival Hall",
-          "city-country":"Osaka",
+          "city_country":"Osaka",
           "price":""
         },
         {
@@ -1408,7 +1408,7 @@
           "month":"03",
           "day":"20",
           "venue":"Festival Hall",
-          "city-country":"Osaka",
+          "city_country":"Osaka",
           "price":""
         },
         {
@@ -1421,7 +1421,7 @@
           "month":"03",
           "day":"21",
           "venue":"Kaikan Duachi Hall",
-          "city-country":"Kyoto",
+          "city_country":"Kyoto",
           "price":""
         },
         {
@@ -1434,7 +1434,7 @@
           "month":"03",
           "day":"24",
           "venue":"-",
-          "city-country":"Fukuoka",
+          "city_country":"Fukuoka",
           "price":""
         },
         {
@@ -1447,7 +1447,7 @@
           "month":"03",
           "day":"26",
           "venue":"-",
-          "city-country":"Japan",
+          "city_country":"Japan",
           "price":""
         },
         {
@@ -1460,7 +1460,7 @@
           "month":"03",
           "day":"27",
           "venue":"Mito Hall",
-          "city-country":"Mito",
+          "city_country":"Mito",
           "price":""
         },
         {
@@ -1473,7 +1473,7 @@
           "month":"03",
           "day":"29",
           "venue":"Koseinken Hall",
-          "city-country":"Sapporo",
+          "city_country":"Sapporo",
           "price":""
         },
         {
@@ -1486,7 +1486,7 @@
           "month":"11",
           "day":"27",
           "venue":"Lyceum",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1499,7 +1499,7 @@
           "month":"02",
           "day":"07",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1512,7 +1512,7 @@
           "month":"02",
           "day":"15",
           "venue":"Yashima Theatre ?",
-          "city-country":"Japan",
+          "city_country":"Japan",
           "price":""
         },
         {
@@ -1525,7 +1525,7 @@
           "month":"02",
           "day":"16",
           "venue":"-",
-          "city-country":"Kobe",
+          "city_country":"Kobe",
           "price":""
         },
         {
@@ -1538,7 +1538,7 @@
           "month":"02",
           "day":"18",
           "venue":"Koseinken Hall",
-          "city-country":"Sapporo",
+          "city_country":"Sapporo",
           "price":""
         },
         {
@@ -1551,7 +1551,7 @@
           "month":"02",
           "day":"18",
           "venue":"Festival Hall",
-          "city-country":"Osaka",
+          "city_country":"Osaka",
           "price":""
         },
         {
@@ -1564,7 +1564,7 @@
           "month":"02",
           "day":"21",
           "venue":"Shi Kohkaido",
-          "city-country":"Nagoya",
+          "city_country":"Nagoya",
           "price":""
         },
         {
@@ -1577,7 +1577,7 @@
           "month":"02",
           "day":"23",
           "venue":"Kaikan Duachi",
-          "city-country":"Kyoto",
+          "city_country":"Kyoto",
           "price":""
         },
         {
@@ -1590,7 +1590,7 @@
           "month":"02",
           "day":"25",
           "venue":"Budokan",
-          "city-country":"Tokyo",
+          "city_country":"Tokyo",
           "price":""
         },
         {
@@ -1603,7 +1603,7 @@
           "month":"05",
           "day":"07",
           "venue":"Rock City",
-          "city-country":"Nottingham",
+          "city_country":"Nottingham",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1616,7 +1616,7 @@
           "month":"05",
           "day":"08",
           "venue":"East Anglia University",
-          "city-country":"Norwich",
+          "city_country":"Norwich",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1629,7 +1629,7 @@
           "month":"05",
           "day":"09",
           "venue":"Manchester Apollo",
-          "city-country":"Manchester",
+          "city_country":"Manchester",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1642,7 +1642,7 @@
           "month":"05",
           "day":"10",
           "venue":"Tiffanys",
-          "city-country":"Leeds",
+          "city_country":"Leeds",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1655,7 +1655,7 @@
           "month":"05",
           "day":"12",
           "venue":"Edinburgh Odeon",
-          "city-country":"Edinburgh",
+          "city_country":"Edinburgh",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1668,7 +1668,7 @@
           "month":"05",
           "day":"13",
           "venue":"Royal Courty Theatre",
-          "city-country":"Liverpool",
+          "city_country":"Liverpool",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1681,7 +1681,7 @@
           "month":"05",
           "day":"14",
           "venue":"Birmingham Odeon",
-          "city-country":"Birmingham",
+          "city_country":"Birmingham",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1694,7 +1694,7 @@
           "month":"05",
           "day":"16",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1707,7 +1707,7 @@
           "month":"05",
           "day":"17",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":"&pound;2.50-3.50"
         },
         {
@@ -1720,7 +1720,7 @@
           "month":"09",
           "day":"27",
           "venue":"Daze of Futre Past Festival",
-          "city-country":"Leeds",
+          "city_country":"Leeds",
           "price":"cancelled"
         },
         {
@@ -1733,7 +1733,7 @@
           "month":"12",
           "day":"07",
           "venue":"Cornwall Coliseum",
-          "city-country":"St Austell",
+          "city_country":"St Austell",
           "price":""
         },
         {
@@ -1746,7 +1746,7 @@
           "month":"12",
           "day":"08",
           "venue":"Guildhall",
-          "city-country":"Portsmouth",
+          "city_country":"Portsmouth",
           "price":""
         },
         {
@@ -1759,7 +1759,7 @@
           "month":"12",
           "day":"10",
           "venue":"Queens Hall",
-          "city-country":"Leeds",
+          "city_country":"Leeds",
           "price":""
         },
         {
@@ -1772,7 +1772,7 @@
           "month":"12",
           "day":"11",
           "venue":"Lancaster University",
-          "city-country":"Lancaster",
+          "city_country":"Lancaster",
           "price":""
         },
         {
@@ -1785,7 +1785,7 @@
           "month":"12",
           "day":"12",
           "venue":"Liverpool Empire",
-          "city-country":"Liverpool",
+          "city_country":"Liverpool",
           "price":""
         },
         {
@@ -1798,7 +1798,7 @@
           "month":"12",
           "day":"13",
           "venue":"Manchester Apollo",
-          "city-country":"Manchester",
+          "city_country":"Manchester",
           "price":""
         },
         {
@@ -1811,7 +1811,7 @@
           "month":"12",
           "day":"14",
           "venue":"City Hall",
-          "city-country":"Newcastle",
+          "city_country":"Newcastle",
           "price":""
         },
         {
@@ -1824,7 +1824,7 @@
           "month":"12",
           "day":"15",
           "venue":"Playhouse",
-          "city-country":"Edinburgh",
+          "city_country":"Edinburgh",
           "price":""
         },
         {
@@ -1837,7 +1837,7 @@
           "month":"12",
           "day":"17",
           "venue":"Birmingham Odeon",
-          "city-country":"Birmingham",
+          "city_country":"Birmingham",
           "price":""
         },
         {
@@ -1850,7 +1850,7 @@
           "month":"12",
           "day":"19",
           "venue":"-",
-          "city-country":"Brighton",
+          "city_country":"Brighton",
           "price":""
         },
         {
@@ -1863,7 +1863,7 @@
           "month":"12",
           "day":"20",
           "venue":"De Montford Hall",
-          "city-country":"Leicester",
+          "city_country":"Leicester",
           "price":""
         },
         {
@@ -1876,7 +1876,7 @@
           "month":"12",
           "day":"21",
           "venue":"Drury Lane Theatre",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1889,7 +1889,7 @@
           "month":"12",
           "day":"21",
           "venue":"Drury Lane Theatre",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1902,7 +1902,7 @@
           "month":"12",
           "day":"23",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1915,7 +1915,7 @@
           "month":"12",
           "day":"27",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -1928,7 +1928,7 @@
           "month":"10",
           "day":"01",
           "venue":"Concert House",
-          "city-country":"Stockholm",
+          "city_country":"Stockholm",
           "price":""
         },
         {
@@ -1941,7 +1941,7 @@
           "month":"10",
           "day":"03",
           "venue":"Audiomex",
-          "city-country":"Hamburg",
+          "city_country":"Hamburg",
           "price":""
         },
         {
@@ -1954,7 +1954,7 @@
           "month":"10",
           "day":"05",
           "venue":"Alabama Halle",
-          "city-country":"Munich",
+          "city_country":"Munich",
           "price":""
         },
         {
@@ -1967,7 +1967,7 @@
           "month":"10",
           "day":"07",
           "venue":"Stadsgehoorzaal",
-          "city-country":"Leiden",
+          "city_country":"Leiden",
           "price":""
         },
         {
@@ -1980,7 +1980,7 @@
           "month":"10",
           "day":"08",
           "venue":"Flemish University",
-          "city-country":"Brussels",
+          "city_country":"Brussels",
           "price":""
         },
         {
@@ -1993,7 +1993,7 @@
           "month":"10",
           "day":"11",
           "venue":"Le Palace",
-          "city-country":"Paris",
+          "city_country":"Paris",
           "price":""
         },
         {
@@ -2006,7 +2006,7 @@
           "month":"10",
           "day":"20",
           "venue":"Guildhall",
-          "city-country":"Portsmouth",
+          "city_country":"Portsmouth",
           "price":""
         },
         {
@@ -2019,7 +2019,7 @@
           "month":"10",
           "day":"21",
           "venue":"Guildhall",
-          "city-country":"Portsmouth",
+          "city_country":"Portsmouth",
           "price":""
         },
         {
@@ -2032,7 +2032,7 @@
           "month":"10",
           "day":"22",
           "venue":"BBC TV \"Old Grey Whistle Test\"",
-          "city-country":"UK",
+          "city_country":"UK",
           "price":""
         },
         {
@@ -2045,7 +2045,7 @@
           "month":"10",
           "day":"22",
           "venue":"Brighton Dome",
-          "city-country":"Brighton",
+          "city_country":"Brighton",
           "price":""
         },
         {
@@ -2058,7 +2058,7 @@
           "month":"10",
           "day":"24",
           "venue":"Glasgow Apollo",
-          "city-country":"Glasgow",
+          "city_country":"Glasgow",
           "price":""
         },
         {
@@ -2071,7 +2071,7 @@
           "month":"10",
           "day":"25",
           "venue":"Glasgow Apollo",
-          "city-country":"Glasgow",
+          "city_country":"Glasgow",
           "price":""
         },
         {
@@ -2084,7 +2084,7 @@
           "month":"10",
           "day":"26",
           "venue":"Edinburgh Playhouse",
-          "city-country":"Edinburgh",
+          "city_country":"Edinburgh",
           "price":""
         },
         {
@@ -2097,7 +2097,7 @@
           "month":"10",
           "day":"27",
           "venue":"City Hall",
-          "city-country":"Newcastle",
+          "city_country":"Newcastle",
           "price":""
         },
         {
@@ -2110,7 +2110,7 @@
           "month":"10",
           "day":"28",
           "venue":"City Hall",
-          "city-country":"Newcastle",
+          "city_country":"Newcastle",
           "price":""
         },
         {
@@ -2123,7 +2123,7 @@
           "month":"10",
           "day":"30",
           "venue":"City Hall",
-          "city-country":"Sheffield",
+          "city_country":"Sheffield",
           "price":""
         },
         {
@@ -2136,7 +2136,7 @@
           "month":"10",
           "day":"31",
           "venue":"City Hall",
-          "city-country":"Sheffield",
+          "city_country":"Sheffield",
           "price":""
         },
         {
@@ -2149,7 +2149,7 @@
           "month":"11",
           "day":"01",
           "venue":"De Montford Hall",
-          "city-country":"Leicester",
+          "city_country":"Leicester",
           "price":""
         },
         {
@@ -2162,7 +2162,7 @@
           "month":"11",
           "day":"02",
           "venue":"Birmingham Odeon",
-          "city-country":"Birmingham",
+          "city_country":"Birmingham",
           "price":""
         },
         {
@@ -2175,7 +2175,7 @@
           "month":"11",
           "day":"03",
           "venue":"Birmingham Odeon",
-          "city-country":"Birmingham",
+          "city_country":"Birmingham",
           "price":""
         },
         {
@@ -2188,7 +2188,7 @@
           "month":"11",
           "day":"04",
           "venue":"Birmingham Odeon",
-          "city-country":"Birmingham",
+          "city_country":"Birmingham",
           "price":""
         },
         {
@@ -2201,7 +2201,7 @@
           "month":"11",
           "day":"07",
           "venue":"Liverpool Empire",
-          "city-country":"Liverpool",
+          "city_country":"Liverpool",
           "price":""
         },
         {
@@ -2214,7 +2214,7 @@
           "month":"11",
           "day":"08",
           "venue":"Liverpool Empire",
-          "city-country":"Liverpool",
+          "city_country":"Liverpool",
           "price":""
         },
         {
@@ -2227,7 +2227,7 @@
           "month":"11",
           "day":"10",
           "venue":"Manchester Apollo",
-          "city-country":"Manchester",
+          "city_country":"Manchester",
           "price":""
         },
         {
@@ -2240,7 +2240,7 @@
           "month":"11",
           "day":"11",
           "venue":"Manchester Apollo",
-          "city-country":"Manchester",
+          "city_country":"Manchester",
           "price":""
         },
         {
@@ -2253,7 +2253,7 @@
           "month":"11",
           "day":"12",
           "venue":"Manchester Apollo",
-          "city-country":"Manchester",
+          "city_country":"Manchester",
           "price":""
         },
         {
@@ -2266,7 +2266,7 @@
           "month":"11",
           "day":"14",
           "venue":"Colston Hall",
-          "city-country":"Bristol",
+          "city_country":"Bristol",
           "price":""
         },
         {
@@ -2279,7 +2279,7 @@
           "month":"11",
           "day":"15",
           "venue":"Colston Hall",
-          "city-country":"Bristol",
+          "city_country":"Bristol",
           "price":""
         },
         {
@@ -2292,7 +2292,7 @@
           "month":"11",
           "day":"17",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -2305,7 +2305,7 @@
           "month":"11",
           "day":"18",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -2318,7 +2318,7 @@
           "month":"11",
           "day":"19",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -2331,7 +2331,7 @@
           "month":"11",
           "day":"20",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -2344,7 +2344,7 @@
           "month":"11",
           "day":"21",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -2357,7 +2357,7 @@
           "month":"11",
           "day":"22",
           "venue":"Hammersmith Odeon",
-          "city-country":"London",
+          "city_country":"London",
           "price":""
         },
         {
@@ -2370,7 +2370,7 @@
           "month":"11",
           "day":"29",
           "venue":"Youth Welfare Center",
-          "city-country":"Bangkok",
+          "city_country":"Bangkok",
           "price":""
         },
         {
@@ -2383,7 +2383,7 @@
           "month":"12",
           "day":"03",
           "venue":"AC Halls",
-          "city-country":"Hong Kong",
+          "city_country":"Hong Kong",
           "price":""
         },
         {
@@ -2396,7 +2396,7 @@
           "month":"12",
           "day":"04",
           "venue":"AC Halls",
-          "city-country":"Hong Kong",
+          "city_country":"Hong Kong",
           "price":""
         },
         {
@@ -2409,7 +2409,7 @@
           "month":"12",
           "day":"08",
           "venue":"Budokan",
-          "city-country":"Tokyo",
+          "city_country":"Tokyo",
           "price":""
         },
         {
@@ -2422,7 +2422,7 @@
           "month":"12",
           "day":"09",
           "venue":"Nakano Sun Plaza",
-          "city-country":"Tokyo",
+          "city_country":"Tokyo",
           "price":""
         },
         {
@@ -2435,7 +2435,7 @@
           "month":"12",
           "day":"10",
           "venue":"Nakano Sun Plaza",
-          "city-country":"Tokyo",
+          "city_country":"Tokyo",
           "price":""
         },
         {
@@ -2448,7 +2448,7 @@
           "month":"12",
           "day":"12",
           "venue":"Koesi Nemkin Hall",
-          "city-country":"Tokyo",
+          "city_country":"Tokyo",
           "price":""
         },
         {
@@ -2461,7 +2461,7 @@
           "month":"12",
           "day":"14",
           "venue":"Festival Hall",
-          "city-country":"Osaka",
+          "city_country":"Osaka",
           "price":""
         },
         {
@@ -2474,7 +2474,7 @@
           "month":"12",
           "day":"15",
           "venue":"Kaikan Daiichi Hall",
-          "city-country":"Kyoto",
+          "city_country":"Kyoto",
           "price":""
         },
         {
@@ -2487,7 +2487,7 @@
           "month":"12",
           "day":"16",
           "venue":"Shi Kohkaido",
-          "city-country":"Nagoya",
+          "city_country":"Nagoya",
           "price":""
         }
       ]
