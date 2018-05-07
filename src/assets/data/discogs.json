@@ -1,0 +1,180 @@
+{
+  "discogs":[
+    {
+    "name":"Japan (studio)",
+    "id":"japan_studio",
+      "contents":[
+        {
+          "embed":"WhC8LnFd2LE",
+          "title":"Visions of China",
+          "description":"foo",
+          "body":"Body",
+          "artist":"Japan",
+          "album":"Tin Drum",
+          "song":"Visions of China",
+          "year":"1981",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        },
+        {
+          "embed":"e4ClCAVVyys",
+          "title":"Quiet Life",
+          "description":"1979",
+          "body":"Body",
+          "artist":"Japan",
+          "album":"Quiet Life",
+          "song":"Quiet Life",
+          "year":"1979",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        },
+        {
+          "embed":"iL5tT456B24",
+          "title":"Instant Pictures VHS",
+          "description":"VHS Comp",
+          "body":"body",
+          "artist":"Japan",
+          "album":"",
+          "song":"",
+          "year":"",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        },
+        {
+          "embed":"rISfBbgFGIY",
+          "title":"Adolescent Sex",
+          "description":"foo",
+          "body":"body",
+          "artist":"Japan",
+          "album":"Adolescent Sex",
+          "song":"Adolescent Sex",
+          "year":"1978",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        },
+        {
+          "embed":"WhC8LnFd2LE",
+          "title":"Visions of China",
+          "description":"foo",
+          "body":"",
+          "artist":"Japan",
+          "album":"",
+          "song":"",
+          "year":"",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        }
+      ]
+    },
+    {
+    "name":"Japan (EP)",
+    "id":"japan_ep",
+      "contents":[
+        {
+          "embed":"WhC8LnFd2LE",
+          "title":"Visions of China",
+          "description":"foo",
+          "body":"Body",
+          "artist":"Japan",
+          "album":"Tin Drum",
+          "song":"Visions of China",
+          "year":"1981",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        }
+      ]
+    },
+    {
+    "name":"Japan (Single)",
+    "id":"japan_single",
+      "contents":[
+        {
+          "embed":"WhC8LnFd2LE",
+          "title":"Visions of China",
+          "description":"foo",
+          "body":"Body",
+          "artist":"Japan",
+          "album":"Tin Drum",
+          "song":"Visions of China",
+          "year":"1981",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        }
+      ]
+    },
+    {
+    "name":"Japan (Compilation)",
+    "id":"japan_compilation",
+      "contents":[
+        {
+          "embed":"WhC8LnFd2LE",
+          "title":"Visions of China",
+          "description":"foo",
+          "body":"Body",
+          "artist":"Japan",
+          "album":"Tin Drum",
+          "song":"Visions of China",
+          "year":"1981",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        }
+      ]
+    },
+    {
+    "name":"David Sylvian",
+    "id":"discog_sylvian",
+      "contents":[
+        {
+          "embed":"WhC8LnFd2LE",
+          "title":"Visions of China",
+          "description":"foo",
+          "body":"Body",
+          "artist":"Japan",
+          "album":"Tin Drum",
+          "song":"Visions of China",
+          "year":"1981",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        }
+      ]
+    },
+    {
+    "name":"Mick Karn",
+    "id":"japan_ep",
+      "contents":[
+        {
+          "embed":"WhC8LnFd2LE",
+          "title":"Visions of China",
+          "description":"foo",
+          "body":"Body",
+          "artist":"Japan",
+          "album":"Tin Drum",
+          "song":"Visions of China",
+          "year":"1981",
+          "day":"",
+          "month":"",
+          "show":"",
+          "venue":""
+        }
+      ]
+    }
+  ]
+}
