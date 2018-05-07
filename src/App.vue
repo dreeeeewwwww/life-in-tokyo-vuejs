@@ -2,27 +2,23 @@
   <div id="app">
 
     <div class="container">
-      <div class="row">
-        <div class="col-12 hello">
-          <nav class="mt-3 pt-3 mb-3 pb-3">
-            <ul>
-              <li class="logo">
-                <router-link to="/">
-                  {{ appTitle }}
-                </router-link>
-              <li>
-              <li v-for="item in navItems" :key="item.title">
-                <router-link
-
-                  :to="item.path">
-                  {{ item.title }}
-                </router-link>&nbsp;
-              </li>
-
-            </ul>
-          </nav>
+      <nav class="row mt-3 pt-3 mb-3 pb-3">
+        <div class="col-3">
+          <router-link to="/">
+            {{ appTitle }}
+          </router-link>
         </div>
-      </div>
+        <div class="col-9">
+          <ul>
+            <li v-for="item in navItems" :key="item.title">
+              <router-link
+                :to="item.path">
+                {{ item.title }}
+              </router-link>&nbsp;
+            </li>
+          </ul>
+        </div>
+      </nav>
       <router-view/>
       <footer class="footer mt-3 pt-3">
         <div class="row row-bottom-60">

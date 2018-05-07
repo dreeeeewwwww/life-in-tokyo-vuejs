@@ -6,12 +6,14 @@
 </template>
 
 <script>
+import archives from '../assets/data/archives.json'
 export default {
   name: 'archive',
   data () {
     return {
       msg: 'this is the archive page',
-      foo: 'some other output'
+      foo: 'some other output',
+      archives
     }
   }
 }
