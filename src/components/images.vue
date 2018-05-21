@@ -9,10 +9,10 @@
       <div v-if="image.name" class="col-9">
         <div class="row">
           <div v-for="content in image.contents" :key="content.id" class="col-3">
-            <img :src="'static/images/' + content.src" class="img-fluid mb-3" data-toggle="modal" :data-target="'#' + content.id" />
+            <img :src="'static/images/' + content.src" class="img-fluid mb-3" data-toggle="modal" :data-target="'#modal-' + content.id" />
             {{ content.title }}
 
-            <div class="modal fade video-clip" :id="content.id" tabindex="-1" role="dialog" :aria-labelledby="content.title">
+            <div class="modal fade video-clip" :id="'modal-' + content.id" tabindex="-1" role="dialog" :aria-labelledby="content.title">
               <div class="modal-dialog modal-dialog-centered modal-lg" >
                 <div class="modal-content">
                   <img :src="'static/images/' + content.src" class="img-fluid mb-3" />

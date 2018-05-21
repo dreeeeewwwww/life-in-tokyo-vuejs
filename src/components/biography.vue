@@ -7,7 +7,7 @@
           <h1>Biography</h1>
         </div>
         <div class="col-6">
-          <img class="img-fluid" src="../assets/images/biography_glam.jpg" />
+          <img class="img-fluid" src="static/images/biography_glam.jpg" />
           <cite>Japan in 1978. Mick Karn, Rob Dean, David Sylvian, Richard Barbieri and Steve Jansen.</cite>
           <h1>CHILDREN OF GLAM</h1>
           <h2 class="mb-3 pb-3">1974 - 1978</h2>
@@ -29,7 +29,7 @@
     </section>
 
     <section id="quiet" class="mb-3 pb-3">
-      <img class="img-fluid d-block" src="../assets/images/biography_moroder.jpg" />
+      <img class="img-fluid d-block" src="static/images/biography_moroder.jpg" />
       <cite>In the studio with Moroder, Los Angeles 1979.</cite>
 
       <div class="row">
@@ -55,7 +55,7 @@
     </section>
 
     <section id="new-romance" class="mb-3 pb-3">
-      <img class="img-fluid" src="../assets/images/biography_backstage.jpg" />
+      <img class="img-fluid" src="static/images/biography_backstage.jpg" />
       <cite>Sylvian, Karn, Barbieri, Jansen and guitarist Masami Tsuchyia backstage during the "Sons of Pioneers" tour, 1982.</cite>
 
       <div class="row">
