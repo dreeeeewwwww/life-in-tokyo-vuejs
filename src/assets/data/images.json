@@ -2,9 +2,9 @@
   "images":[
     {
     "name":"Band",
-      "assets":[
+      "contents":[
         {
-          "img":"polaroids_japan_1978_03.jpg",
+          "src":"polaroids_japan_1978_03.jpg",
           "thumb":"polaroids_japan_1978_03T.jpg",
           "title": null,
           "description":"1978 (or late 77?).",
@@ -12,7 +12,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_1978_01.jpg",
+          "src":"polaroids_japan_1978_01.jpg",
           "thumb":"polaroids_japan_1978_01T.jpg",
           "title": null,
           "description":"1978",
@@ -20,7 +20,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_1978_04.jpg",
+          "src":"polaroids_japan_1978_04.jpg",
           "thumb":"polaroids_japan_1978_04T.jpg",
           "title": null,
           "description":"1978",
@@ -28,7 +28,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_nyc.jpg",
+          "src":"polaroids_japan_nyc.jpg",
           "thumb":"polaroids_japan_nycthumb.jpg",
           "title":"New York City, November 1978",
           "description":null,
@@ -36,7 +36,7 @@
           "attribution":"Michael Putland"
         },
         {
-          "img":"polaroids_japan_flyerkill.jpg",
+          "src":"polaroids_japan_flyerkill.jpg",
           "thumb":"polaroids_japan_flyerkillT.jpg",
           "title":"1978",
           "description":"Japanese flyer",
@@ -44,7 +44,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_1978_06.jpg",
+          "src":"polaroids_japan_1978_06.jpg",
           "thumb":"polaroids_japan_1978_06T.jpg",
           "title":"1978",
           "description":null,
@@ -52,7 +52,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_1978_07.jpg",
+          "src":"polaroids_japan_1978_07.jpg",
           "thumb":"polaroids_japan_1978_07T.jpg",
           "title":"1978",
           "description":null,
@@ -60,7 +60,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_1979_01.jpg",
+          "src":"polaroids_japan_1979_01.jpg",
           "thumb":"polaroids_japan_1979_01T.jpg",
           "title":"1979",
           "description":null,
@@ -68,7 +68,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_blurry.jpg",
+          "src":"polaroids_japan_blurry.jpg",
           "thumb":"polaroids_japan_blurryT.jpg",
           "title": null,
           "description":null,
@@ -76,7 +76,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_umbrellas.jpg",
+          "src":"polaroids_japan_umbrellas.jpg",
           "thumb":"polaroids_japan_umbrellasT.jpg",
           "title":"1980",
           "description":"Thanks to Simon C. for the scan.",
@@ -84,7 +84,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_couch.jpg",
+          "src":"polaroids_japan_couch.jpg",
           "thumb":"polaroids_japan_couchT.jpg",
           "title":"1980",
           "description":"Thanks to Simon C. for the scan.",
@@ -92,7 +92,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_haircuts.jpg",
+          "src":"polaroids_japan_haircuts.jpg",
           "thumb":"polaroids_japan_haircutsT.jpg",
           "title":"1980",
           "description":"Thanks to Simon C. for the scan.",
@@ -100,7 +100,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_1980dbl.jpg",
+          "src":"polaroids_japan_1980dbl.jpg",
           "thumb":"polaroids_japan_1980dblT.jpg",
           "title":"1980",
           "description":"Thanks to Simon C. for the scan.",
@@ -108,7 +108,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_sheet.jpg",
+          "src":"polaroids_japan_sheet.jpg",
           "thumb":"polaroids_japan_sheetT.jpg",
           "title":"1980",
           "description":null,
@@ -116,7 +116,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_gtpback.jpg",
+          "src":"polaroids_japan_gtpback.jpg",
           "thumb":"polaroids_japan_gtpbackT.jpg",
           "title":"1980",
           "description":null,
@@ -124,7 +124,7 @@
           "attribution":"Nicola Tyson"
         },
         {
-          "img":"polaroids_japan_1981_com.jpg",
+          "src":"polaroids_japan_1981_com.jpg",
           "thumb":"polaroids_japan_1981_comT.jpg",
           "title":"1981",
           "description":null,
@@ -132,7 +132,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_com02.jpg",
+          "src":"polaroids_japan_com02.jpg",
           "thumb":"polaroids_japan_com02T.jpg",
           "title":"1981",
           "description":null,
@@ -140,7 +140,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_cosB.jpg",
+          "src":"polaroids_japan_cosB.jpg",
           "thumb":"polaroids_japan_cosBT.jpg",
           "title":"1981",
           "description":null,
@@ -148,7 +148,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_muddy.jpg",
+          "src":"polaroids_japan_muddy.jpg",
           "thumb":"polaroids_japan_muddyT.jpg",
           "title": null,
           "description":null,
@@ -156,7 +156,7 @@
           "attribution":"Virginia Turbett"
         },
         {
-          "img":"polaroids_japan_01.jpg",
+          "src":"polaroids_japan_01.jpg",
           "thumb":"polaroids_japan_01T.jpg",
           "title": null,
           "description":null,
@@ -164,7 +164,7 @@
           "attribution":"Virginia Turbett"
         },
         {
-          "img":"polaroids_japan_mcolor.jpg",
+          "src":"polaroids_japan_mcolor.jpg",
           "thumb":"polaroids_japan_mcolorT.jpg",
           "title": null,
           "description":null,
@@ -172,7 +172,7 @@
           "attribution":"Virginia Turbett"
         },
         {
-          "img":"polaroids_japan_jansen01.jpg",
+          "src":"polaroids_japan_jansen01.jpg",
           "thumb":"polaroids_japan_jansen01T.jpg",
           "title":"Recording Tin Drum",
           "description":"www.stevejansen.com/imageshop.Buy here",
@@ -180,7 +180,7 @@
           "attribution":"Steve Jansen"
         },
         {
-          "img":"polaroids_japan_fans.jpg",
+          "src":"polaroids_japan_fans.jpg",
           "thumb":"polaroids_japan_fansT.jpg",
           "title":"London, 1981",
           "description":"Jansen and Karn with Japanese fans.",
@@ -188,7 +188,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_81couch.jpg",
+          "src":"polaroids_japan_81couch.jpg",
           "thumb":"polaroids_japan_81couchT.jpg",
           "title":"Fan Library magazine",
           "description":"p. 11.",
@@ -196,7 +196,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_mspiggy.jpg",
+          "src":"polaroids_japan_mspiggy.jpg",
           "thumb":"polaroids_japan_mspiggyT.jpg",
           "title":"1986",
           "description":"from Bamboo, Issue 11",
@@ -204,7 +204,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_totp.jpg",
+          "src":"polaroids_japan_totp.jpg",
           "thumb":"polaroids_japan_totpT.jpg",
           "title":"Top of the Pops",
           "description":"Possibly from their TOTP performance of Cantonese Boy",
@@ -212,7 +212,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_pio02.jpg",
+          "src":"polaroids_japan_pio02.jpg",
           "thumb":"polaroids_japan_pio02T.jpg",
           "title":"1982",
           "description":null,
@@ -220,7 +220,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_pio03.jpg",
+          "src":"polaroids_japan_pio03.jpg",
           "thumb":"polaroids_japan_pio03T.jpg",
           "title":"1982",
           "description":null,
@@ -228,7 +228,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_pio.jpg",
+          "src":"polaroids_japan_pio.jpg",
           "thumb":"polaroids_japan_pioT.jpg",
           "title": null,
           "description":"From the back cover of the Sons of Pioneers tour book.",
@@ -236,7 +236,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_82spread.jpg",
+          "src":"polaroids_japan_82spread.jpg",
           "thumb":"polaroids_japan_82spreadT.jpg",
           "title":"Magazine spread, 1982. ",
           "description":"Thanks to Simon C. for the scan.",
@@ -244,7 +244,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_jk03.jpg",
+          "src":"polaroids_japan_jk03.jpg",
           "thumb":"polaroids_japan_jk03T.jpg",
           "title": null,
           "description":null,
@@ -252,7 +252,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_sk.jpg",
+          "src":"polaroids_japan_sk.jpg",
           "thumb":"polaroids_japan_skT.jpg",
           "title": null,
           "description":null,
@@ -260,7 +260,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_ks02.jpg",
+          "src":"polaroids_japan_ks02.jpg",
           "thumb":"polaroids_japan_ks02T.jpg",
           "title":"1982",
           "description":"From A Tourist's Guide to Japan, p. 4.",
@@ -268,7 +268,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_ks01.jpg",
+          "src":"polaroids_japan_ks01.jpg",
           "thumb":"polaroids_japan_ks01T.jpg",
           "title":"1982",
           "description":"From A Tourist's Guide to Japan, p. 20.",
@@ -276,7 +276,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_japan_bros.jpg",
+          "src":"polaroids_japan_bros.jpg",
           "thumb":"polaroids_japan_brosT.jpg",
           "title":"1983",
           "description":"Smash Hits magazine",
@@ -287,9 +287,9 @@
     },
     {
     "name":"David Sylvian",
-      "assets":[
+      "contents":[
         {
-          "img":"polaroids_sylvian_78yoshi.jpg",
+          "src":"polaroids_sylvian_78yoshi.jpg",
           "thumb":"polaroids_sylvian_78yoshiT.jpg",
           "title":"1978",
           "description":null,
@@ -297,7 +297,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_1978sit.jpg",
+          "src":"polaroids_sylvian_1978sit.jpg",
           "thumb":"polaroids_sylvian_1978sitT.jpg",
           "title": null,
           "description":"Thanks to S4pB for the scan.",
@@ -305,7 +305,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_78_01.jpg",
+          "src":"polaroids_sylvian_78_01.jpg",
           "thumb":"polaroids_sylvian_78_01T.jpg",
           "title": null,
           "description":null,
@@ -313,7 +313,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_moroder.jpg",
+          "src":"polaroids_sylvian_moroder.jpg",
           "thumb":"polaroids_sylvian_moroderT.jpg",
           "title":"Los Angeles, 1979",
           "description":"Recording Life in Tokyo with Giorgio Moroder.",
@@ -321,7 +321,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_blue01.jpg",
+          "src":"polaroids_sylvian_blue01.jpg",
           "thumb":"polaroids_sylvian_blue01T.jpg",
           "title": null,
           "description":"From the 1980 Japanese tour book.",
@@ -329,7 +329,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_blue02.jpg",
+          "src":"polaroids_sylvian_blue02.jpg",
           "thumb":"polaroids_sylvian_blue02T.jpg",
           "title":"1980",
           "description":null,
@@ -337,7 +337,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_qc01.jpg",
+          "src":"polaroids_sylvian_qc01.jpg",
           "thumb":"polaroids_sylvian_qc01T.jpg",
           "title":"1980",
           "description":null,
@@ -345,7 +345,7 @@
           "attribution":"Nicola Tyson"
         },
         {
-          "img":"polaroids_sylvian_qc02.jpg",
+          "src":"polaroids_sylvian_qc02.jpg",
           "thumb":"polaroids_sylvian_qc02T.jpg",
           "title":"1980",
           "description":"",
@@ -353,7 +353,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_sylvian_vg.jpg",
+          "src":"polaroids_sylvian_vg.jpg",
           "thumb":"polaroids_sylvian_vgT.jpg",
           "title":"Tokyo, 1980",
           "description":"Sylvian vs. Space Invaders.",
@@ -361,7 +361,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_crowd.jpg",
+          "src":"polaroids_sylvian_crowd.jpg",
           "thumb":"polaroids_sylvian_crowdT.jpg",
           "title": null,
           "description":null,
@@ -369,7 +369,7 @@
           "attribution":"Nicola Tyson"
         },
         {
-          "img":"polaroids_sylvian_books.jpg",
+          "src":"polaroids_sylvian_books.jpg",
           "thumb":"polaroids_sylvian_booksT.jpg",
           "title":"1981",
           "description":null,
@@ -377,7 +377,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_blurry.jpg",
+          "src":"polaroids_sylvian_blurry.jpg",
           "thumb":"polaroids_sylvian_blurryT.jpg",
           "title": null,
           "description":null,
@@ -385,7 +385,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_sylvian_makeup.jpg",
+          "src":"polaroids_sylvian_makeup.jpg",
           "thumb":"polaroids_sylvian_makeupT.jpg",
           "title": null,
           "description":null,
@@ -393,7 +393,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_b01.jpg",
+          "src":"polaroids_sylvian_b01.jpg",
           "thumb":"polaroids_sylvian_b01T.jpg",
           "title": null,
           "description":null,
@@ -401,7 +401,7 @@
           "attribution":"Michael Putland"
         },
         {
-          "img":"polaroids_sylvian_vogue.jpg",
+          "src":"polaroids_sylvian_vogue.jpg",
           "thumb":"polaroids_sylvian_vogueT.jpg",
           "title":"VOGUE!",
           "description":null,
@@ -409,7 +409,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_japan_FLcover.jpg",
+          "src":"polaroids_japan_FLcover.jpg",
           "thumb":"polaroids_japan_FLcover.jpg",
           "title":"1982",
           "description":"Cover of Fan Library",
@@ -417,7 +417,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_com.jpg",
+          "src":"polaroids_sylvian_com.jpg",
           "thumb":"polaroids_sylvian_comT.jpg",
           "title": null,
           "description":null,
@@ -425,7 +425,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_sylvian_jansen04.jpg",
+          "src":"polaroids_sylvian_jansen04.jpg",
           "thumb":"polaroids_sylvian_jansen04T.jpg",
           "title": null,
           "description":"Recording Tin Drum with Steve Nye. www.stevejansen.com/imageshop.",
@@ -433,7 +433,7 @@
           "attribution":"Steve Jansen"
         },
         {
-          "img":"polaroids_sylvian_jansen03.jpg",
+          "src":"polaroids_sylvian_jansen03.jpg",
           "thumb":"polaroids_sylvian_jansen03T.jpg",
           "title": null,
           "description":"Filming the Visions of China video. www.stevejansen.com/imageshop.",
@@ -441,7 +441,7 @@
           "attribution":"Steve Jansen"
         },
         {
-          "img":"polaroids_sylvian_jansen01.jpg",
+          "src":"polaroids_sylvian_jansen01.jpg",
           "thumb":"polaroids_sylvian_jansen01T.jpg",
           "title": null,
           "description":null,
@@ -449,7 +449,7 @@
           "attribution":"Steve Jansen"
         },
         {
-          "img":"polaroids_sylvian_jansen02.jpg",
+          "src":"polaroids_sylvian_jansen02.jpg",
           "thumb":"polaroids_sylvian_jansen02T.jpg",
           "title": null,
           "description":"Recording Bamboo Houses with Ryuichi Sakamoto. www.stevejansen.com/imageshop.",
@@ -457,7 +457,7 @@
           "attribution":"Steve Jansen"
         },
         {
-          "img":"polaroids_sylvian_tdalt.jpg",
+          "src":"polaroids_sylvian_tdalt.jpg",
           "thumb":"polaroids_sylvian_tdaltT.jpg",
           "title": null,
           "description":"Alternate Tin Drum cover",
@@ -465,7 +465,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_sylvian_flmic.jpg",
+          "src":"polaroids_sylvian_flmic.jpg",
           "thumb":"polaroids_sylvian_flmicT.jpg",
           "title":"1982",
           "description":"Fan Library, p.23",
@@ -473,7 +473,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_sylvian_smoking.jpg",
+          "src":"polaroids_sylvian_smoking.jpg",
           "thumb":"polaroids_sylvian_smokingT.jpg",
           "title":"1982",
           "description":"Fan Library, p.34",
@@ -481,7 +481,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_sylvian_tourists.jpg",
+          "src":"polaroids_sylvian_tourists.jpg",
           "thumb":"polaroids_sylvian_touristsT.jpg",
           "title": null,
           "description":null,
@@ -489,7 +489,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_sylvian_bwguitar.jpg",
+          "src":"polaroids_sylvian_bwguitar.jpg",
           "thumb":"polaroids_sylvian_bwguitarT.jpg",
           "title":"1982",
           "description":"Fan Library, p.39",
@@ -497,7 +497,7 @@
           "attribution":"Virginia Turbett"
         },
         {
-          "img":"polaroids_sylvian_aop12.jpg",
+          "src":"polaroids_sylvian_aop12.jpg",
           "thumb":"polaroids_sylvian_aop12T.jpg",
           "title": null,
           "description":"From The Art of Parties single.",
@@ -505,7 +505,7 @@
           "attribution":"Steve Jansen"
         },
         {
-          "img":"polaroids_sylvian_rapport.jpg",
+          "src":"polaroids_sylvian_rapport.jpg",
           "thumb":"polaroids_sylvian_rapportT.jpg",
           "title":"1982",
           "description":"Fan Library, p. 37",
@@ -513,7 +513,7 @@
           "attribution":"Steve Rapport"
         },
         {
-          "img":"polaroids_sylvian_corbijn.jpg",
+          "src":"polaroids_sylvian_corbijn.jpg",
           "thumb":"polaroids_sylvian_corbijnT.jpg",
           "title": null,
           "description":"Oil on Canvas",
@@ -521,7 +521,7 @@
           "attribution":"Anton Corbijn"
         },
         {
-          "img":"polaroids_sylvian_bam.jpg",
+          "src":"polaroids_sylvian_bam.jpg",
           "thumb":"polaroids_sylvian_bamT.jpg",
           "title":"1982",
           "description":"Bamboo Music promo video",
@@ -529,7 +529,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_smash84.jpg",
+          "src":"polaroids_sylvian_smash84.jpg",
           "thumb":"polaroids_sylvian_smash84T.jpg",
           "title":"1984",
           "description":"Smash Hits magazine",
@@ -537,7 +537,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_b02.jpg",
+          "src":"polaroids_sylvian_b02.jpg",
           "thumb":"polaroids_sylvian_b02T.jpg",
           "title":"1987",
           "description":"Bamboo fanzine, Issue 12",
@@ -545,7 +545,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_sylvian_opium01.jpg",
+          "src":"polaroids_sylvian_opium01.jpg",
           "thumb":"polaroids_sylvian_opium01T.jpg",
           "title": null,
           "description":"Opium Arts postcard",
@@ -556,9 +556,9 @@
     },
     {
     "name":"Mick Karn",
-      "assets":[
+      "contents":[
         {
-          "img":"polaroids_karn_7803.jpg",
+          "src":"polaroids_karn_7803.jpg",
           "thumb":"polaroids_karn_7803T.jpg",
           "title":"1978",
           "description":null,
@@ -566,7 +566,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_7801.jpg",
+          "src":"polaroids_karn_7801.jpg",
           "thumb":"karn_01thumb.jpg",
           "title":"March 1979",
           "description":"Music Life magazine",
@@ -574,7 +574,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_7802.jpg",
+          "src":"polaroids_karn_7802.jpg",
           "thumb":"polaroids_karn_7802T.jpg",
           "title":"1979",
           "description":null,
@@ -582,7 +582,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_scary.gif",
+          "src":"polaroids_karn_scary.gif",
           "thumb":"polaroids_karn_scaryT.gif",
           "title": null,
           "description":"From the 1980 Japanese tour book",
@@ -590,7 +590,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_blue02.jpg",
+          "src":"polaroids_karn_blue02.jpg",
           "thumb":"polaroids_karn_blue02T.jpg",
           "title":"1982",
           "description":"Fan Library, p. 13",
@@ -598,7 +598,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_karn_blkrd.jpg",
+          "src":"polaroids_karn_blkrd.jpg",
           "thumb":"polaroids_karn_blkrdT.jpg",
           "title": null,
           "description":null,
@@ -606,7 +606,7 @@
           "attribution":"Nicola Tyson"
         },
         {
-          "img":"polaroids_karn_sil.jpg",
+          "src":"polaroids_karn_sil.jpg",
           "thumb":"polaroids_karn_silT.jpg",
           "title":"1981/2",
           "description":null,
@@ -614,7 +614,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_reflec.jpg",
+          "src":"polaroids_karn_reflec.jpg",
           "thumb":"polaroids_karn_reflecT.jpg",
           "title":"1981/2",
           "description":null,
@@ -622,7 +622,7 @@
           "attribution":""
         },
         {
-          "img":"karn_03.jpg",
+          "src":"karn_03.jpg",
           "thumb":"karn_03thumb.jpg",
           "title":"1981/2",
           "description":null,
@@ -630,7 +630,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_sculp.jpg",
+          "src":"polaroids_karn_sculp.jpg",
           "thumb":"polaroids_karn_sculpT.jpg",
           "title":"London, 1980",
           "description":"Sculpture exhibition, Hamilton Gallery",
@@ -638,7 +638,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_karn_tgsculpt.jpg",
+          "src":"polaroids_karn_tgsculpt.jpg",
           "thumb":"polaroids_karn_tgsculptT.jpg",
           "title": null,
           "description":"A Tourists Guide to Japan, p. 12",
@@ -646,7 +646,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_karn_bowie.jpg",
+          "src":"polaroids_karn_bowie.jpg",
           "thumb":"polaroids_karn_bowieT.jpg",
           "title":"1980",
           "description":"With Angie Bowie",
@@ -654,7 +654,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_jansen01.jpg",
+          "src":"polaroids_karn_jansen01.jpg",
           "thumb":"polaroids_karn_jansen01T.jpg",
           "title": null,
           "description":"www.stevejansen.com/imageshop",
@@ -662,7 +662,7 @@
           "attribution":"Steve Jansen"
         },
         {
-          "img":"polaroids_karn_sax.jpg",
+          "src":"polaroids_karn_sax.jpg",
           "thumb":"polaroids_karn_saxT.jpg",
           "title": null,
           "description":null,
@@ -670,7 +670,7 @@
           "attribution":"Virginia Turbett"
         },
         {
-          "img":"polaroids_karn_studio.jpg",
+          "src":"polaroids_karn_studio.jpg",
           "thumb":"polaroids_karn_studioT.jpg",
           "title": null,
           "description":"From a Tourists Guide to Japan, p. 26",
@@ -678,7 +678,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_karn_voc.jpg",
+          "src":"polaroids_karn_voc.jpg",
           "thumb":"polaroids_karn_vocT.jpg",
           "title":"1980",
           "description":"Still from the Visions of China video",
@@ -686,7 +686,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_FL01.jpg",
+          "src":"polaroids_karn_FL01.jpg",
           "thumb":"polaroids_karn_FL01T.jpg",
           "title":"1982",
           "description":"Fan Library, p.12",
@@ -694,7 +694,7 @@
           "attribution":"Steve Rapport"
         },
         {
-          "img":"polaroids_karn_mao.jpg",
+          "src":"polaroids_karn_mao.jpg",
           "thumb":"polaroids_karn_maoT.jpg",
           "title":"1982",
           "description":"Fan Library, p.19",
@@ -702,7 +702,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_karn_pcafe.jpg",
+          "src":"polaroids_karn_pcafe.jpg",
           "thumb":"polaroids_karn_pcafeT.jpg",
           "title":"1981",
           "description":"With publicist Connie Fillipello at Karn's Penguin Cafe",
@@ -710,7 +710,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_karn_corbijn.jpg",
+          "src":"polaroids_karn_corbijn.jpg",
           "thumb":"polaroids_karn_corbijnT.jpg",
           "title": null,
           "description":"From Oil on Canvas",
@@ -718,7 +718,7 @@
           "attribution":"Anton Corbijn"
         },
         {
-          "img":"polaroids_karn_buoy.jpg",
+          "src":"polaroids_karn_buoy.jpg",
           "thumb":"polaroids_karn_buoyT.jpg",
           "title":"1987",
           "description":"Bouy promo shot. From Bamboo, issue 12",
@@ -729,9 +729,9 @@
     },
     {
     "name":"Steve Jansen",
-      "assets":[
+      "contents":[
         {
-          "img":"polaroids_jansen_sun.jpg",
+          "src":"polaroids_jansen_sun.jpg",
           "thumb":"polaroids_jansen_sunT.jpg",
           "title":"1978",
           "description":null,
@@ -739,7 +739,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_jansen_blue.jpg",
+          "src":"polaroids_jansen_blue.jpg",
           "thumb":"polaroids_jansen_blueT.jpg",
           "title":"1980",
           "description":"Japanese tour book",
@@ -747,7 +747,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_jansen_s4pb.jpg",
+          "src":"polaroids_jansen_s4pb.jpg",
           "thumb":"polaroids_jansen_s4pbT.jpg",
           "title": null,
           "description":null,
@@ -755,7 +755,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_jansen_com01.jpg",
+          "src":"polaroids_jansen_com01.jpg",
           "thumb":"polaroids_jansen_com01T.jpg",
           "title":"1982",
           "description":"Fan Library, p. 16",
@@ -763,7 +763,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_jansen_kit.jpg",
+          "src":"polaroids_jansen_kit.jpg",
           "thumb":"polaroids_jansen_kitT.jpg",
           "title":"1982",
           "description":"Fan Library, p.16",
@@ -771,7 +771,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_jansen_camera.jpg",
+          "src":"polaroids_jansen_camera.jpg",
           "thumb":"polaroids_jansen_cameraT.jpg",
           "title":"1982",
           "description":"Fan Library, p.16",
@@ -779,7 +779,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_jansen_FL01.jpg",
+          "src":"polaroids_jansen_FL01.jpg",
           "thumb":"polaroids_jansen_FL01T.jpg",
           "title":"1982",
           "description":"Fan Library, p. 17",
@@ -787,7 +787,7 @@
           "attribution":"Steve Rapport"
         },
         {
-          "img":"polaroids_jansen_dog.jpg",
+          "src":"polaroids_jansen_dog.jpg",
           "thumb":"polaroids_jansen_dogT.jpg",
           "title":"1982",
           "description":"Fan Library, p. 21",
@@ -795,7 +795,7 @@
           "attribution":"Virginia Turbett"
         },
         {
-          "img":"polaroids_jansen_slides.jpg",
+          "src":"polaroids_jansen_slides.jpg",
           "thumb":"polaroids_jansen_slidesT.jpg",
           "title":"1982",
           "description":"Fan Library, p. 22",
@@ -803,7 +803,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_jansen_hangin.jpg",
+          "src":"polaroids_jansen_hangin.jpg",
           "thumb":"polaroids_jansen_hanginT.jpg",
           "title":"1981 &#63;",
           "description":null,
@@ -811,7 +811,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_jansen_tgsun.jpg",
+          "src":"polaroids_jansen_tgsun.jpg",
           "thumb":"polaroids_jansen_tgsunT.jpg",
           "title": null,
           "description":"A Tourist's Guide to Japan, p.13",
@@ -819,7 +819,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_jansen_corbijn.jpg",
+          "src":"polaroids_jansen_corbijn.jpg",
           "thumb":"polaroids_jansen_corbijnT.jpg",
           "title": null,
           "description":"Oil on Canvas",
@@ -827,7 +827,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_jansen_bcover.jpg",
+          "src":"polaroids_jansen_bcover.jpg",
           "thumb":"polaroids_jansen_bcoverT.jpg",
           "title":"1987",
           "description":"Cover of Bamboo, Issue 12",
@@ -838,9 +838,9 @@
     },
     {
     "name":"Richard Barbieri",
-      "assets":[
+      "contents":[
         {
-          "img":"polaroids_barb_glammy.jpg",
+          "src":"polaroids_barb_glammy.jpg",
           "thumb":"polaroids_barb_glammyT.jpg",
           "title": null,
           "description":null,
@@ -848,7 +848,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_barb_blue.jpg",
+          "src":"polaroids_barb_blue.jpg",
           "thumb":"polaroids_barb_blueT.jpg",
           "title":"1980",
           "description":"Japanese tour book",
@@ -856,7 +856,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_barb_radio.jpg",
+          "src":"polaroids_barb_radio.jpg",
           "thumb":"polaroids_barb_radioT.jpg",
           "title":"1981 &#63;",
           "description":null,
@@ -864,7 +864,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_barb_oberheim.jpg",
+          "src":"polaroids_barb_oberheim.jpg",
           "thumb":"polaroids_barb_oberheimT.jpg",
           "title":"1986",
           "description":"Bamboo, issue 11",
@@ -872,7 +872,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_barb_fl01.jpg",
+          "src":"polaroids_barb_fl01.jpg",
           "thumb":"polaroids_barb_fl01T.jpg",
           "title":"1982",
           "description":"Fan Library, p. 28",
@@ -880,7 +880,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_barb_fl02.jpg",
+          "src":"polaroids_barb_fl02.jpg",
           "thumb":"polaroids_barb_fl02T.jpg",
           "title":"1982",
           "description":"Fan Library, p. 29",
@@ -888,7 +888,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_barb_fl03.jpg",
+          "src":"polaroids_barb_fl03.jpg",
           "thumb":"polaroids_barb_fl03T.jpg",
           "title": null,
           "description":null,
@@ -896,7 +896,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_barb_mao.jpg",
+          "src":"polaroids_barb_mao.jpg",
           "thumb":"polaroids_barb_maoT.jpg",
           "title": null,
           "description":null,
@@ -904,7 +904,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_barb_fl04.jpg",
+          "src":"polaroids_barb_fl04.jpg",
           "thumb":"polaroids_barb_fl04T.jpg",
           "title":"1982",
           "description":"Fan Library, p.32",
@@ -912,7 +912,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_barb_fl05.jpg",
+          "src":"polaroids_barb_fl05.jpg",
           "thumb":"polaroids_barb_fl05T.jpg",
           "title":"1982",
           "description":"Fan Library, p. 32",
@@ -920,7 +920,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_barb_fl06.jpg",
+          "src":"polaroids_barb_fl06.jpg",
           "thumb":"polaroids_barb_fl06T.jpg",
           "title":"1982",
           "description":"Fan Library, p. 33",
@@ -928,7 +928,7 @@
           "attribution":"Steve Rapport"
         },
         {
-          "img":"polaroids_barb_corbijn.jpg",
+          "src":"polaroids_barb_corbijn.jpg",
           "thumb":"polaroids_barb_corbijnT.jpg",
           "title": null,
           "description":"Oil on Canvas",
@@ -936,7 +936,7 @@
           "attribution":"Anton Corbijn"
         },
         {
-          "img":"polaroids_barb_jansen01.jpg",
+          "src":"polaroids_barb_jansen01.jpg",
           "thumb":"polaroids_barb_jansen01T.jpg",
           "title": null,
           "description":"Tokyo,  www.stevejansen.com/imageshop.",
@@ -944,7 +944,7 @@
           "attribution":"Steve Jansen"
         },
         {
-          "img":"polaroids_barb_roland700.jpg",
+          "src":"polaroids_barb_roland700.jpg",
           "thumb":"polaroids_barb_roland700T.jpg",
           "title": null,
           "description":"With the Roland System 700",
@@ -955,9 +955,9 @@
     },
     {
     "name":"Rob Dean",
-      "assets":[
+      "contents":[
         {
-          "img":"polaroids_dean_b01.jpg",
+          "src":"polaroids_dean_b01.jpg",
           "thumb":"polaroids_dean_b01T.jpg",
           "title":"1986",
           "description":"Bamboo, Issue 9",
@@ -965,7 +965,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_dean_b02.jpg",
+          "src":"polaroids_dean_b02.jpg",
           "thumb":"polaroids_dean_b02T.jpg",
           "title":"1986",
           "description":"Bamboo, Issue 9",
@@ -973,7 +973,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_dean_b03.jpg",
+          "src":"polaroids_dean_b03.jpg",
           "thumb":"polaroids_dean_b03T.jpg",
           "title":"1986",
           "description":"Bamboo, Issue 9",
@@ -981,7 +981,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_dean_b04.jpg",
+          "src":"polaroids_dean_b04.jpg",
           "thumb":"polaroids_dean_b04T.jpg",
           "title":"1986",
           "description":"Bamboo, Issue 10",
@@ -989,7 +989,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_dean_b05.jpg",
+          "src":"polaroids_dean_b05.jpg",
           "thumb":"polaroids_dean_b05T.jpg",
           "title":"1986",
           "description":"Bamboo, Issue 11",
@@ -997,7 +997,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_dean_sinead.jpg",
+          "src":"polaroids_dean_sinead.jpg",
           "thumb":"polaroids_dean_sineadT.jpg",
           "title":"1987",
           "description":"With Sin&eacute;ad O'Connor during her first live performance: a Bamboo Fanzine 'Moods' party",
@@ -1005,7 +1005,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_dean_solo.jpg",
+          "src":"polaroids_dean_solo.jpg",
           "thumb":"polaroids_dean_soloT.jpg",
           "title": null,
           "description":null,
@@ -1016,9 +1016,9 @@
     },
     {
     "name":"etc",
-      "assets":[
+      "contents":[
         {
-          "img":"polaroids_etc_yanosakamoto.jpg",
+          "src":"polaroids_etc_yanosakamoto.jpg",
           "thumb":"polaroids_etc_yanosakamotoT.jpg",
           "title":"1982 &#63;",
           "description":"Karn and Jansen with Akiko Yano and Ryuichi Sakamoto",
@@ -1026,7 +1026,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_tv.jpg",
+          "src":"polaroids_etc_tv.jpg",
           "thumb":"polaroids_etc_tvT.jpg",
           "title": null,
           "description":"Jansen, Barbieri and Masami Tsuchiya on Japanese TV.",
@@ -1034,7 +1034,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_japanclub.jpg",
+          "src":"polaroids_etc_japanclub.jpg",
           "thumb":"polaroids_etc_japanclubT.jpg",
           "title":"1982",
           "description":"Fan Club ad from Fan Library, p. 40.",
@@ -1042,7 +1042,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_tourad.jpg",
+          "src":"polaroids_etc_tourad.jpg",
           "thumb":"polaroids_etc_touradT.jpg",
           "title":"1982",
           "description":"Tour ad",
@@ -1050,7 +1050,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_daliscar_costello.jpg",
+          "src":"polaroids_daliscar_costello.jpg",
           "thumb":"polaroids_dc_costelloT.jpg",
           "title":"1984",
           "description":"Peter Murphy and Mick Karn",
@@ -1058,7 +1058,7 @@
           "attribution":"Fin Costello"
         },
         {
-          "img":"polaroids_etc_fadc.jpg",
+          "src":"polaroids_etc_fadc.jpg",
           "thumb":"polaroids_etc_fadcT.jpg",
           "title":"1984",
           "description":"Dalis Car fan art. Bamboo, Issue 2",
@@ -1066,7 +1066,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_fadc02.jpg",
+          "src":"polaroids_etc_fadc02.jpg",
           "thumb":"polaroids_etc_fadc02T.jpg",
           "title":"1984",
           "description":"Dalis Car fan art. Bamboo, Issue 3",
@@ -1074,7 +1074,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_fasylvian01.jpg",
+          "src":"polaroids_etc_fasylvian01.jpg",
           "thumb":"polaroids_etc_fasylvian01T.jpg",
           "title":"1984",
           "description":"Fan art. Bamboo, Issue 3",
@@ -1082,7 +1082,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_fabamboo.jpg",
+          "src":"polaroids_etc_fabamboo.jpg",
           "thumb":"polaroids_etc_fabambooT.jpg",
           "title":"1985",
           "description":"Fan art. Bamboo, Issue 4",
@@ -1090,7 +1090,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_faweird.jpg",
+          "src":"polaroids_etc_faweird.jpg",
           "thumb":"polaroids_etc_faweirdT.jpg",
           "title":"1985",
           "description":"Fan art. Bamboo, Issue 6",
@@ -1098,7 +1098,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_faxmas.jpg",
+          "src":"polaroids_etc_faxmas.jpg",
           "thumb":"polaroids_etc_faxmasT.jpg",
           "title":"1985",
           "description":"Fan art. Bamboo, Issue 7",
@@ -1106,7 +1106,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_fajb.jpg",
+          "src":"polaroids_etc_fajb.jpg",
           "thumb":"polaroids_etc_fajbT.jpg",
           "title":"1985",
           "description":"Fan art. Bamboo, Issue 7",
@@ -1114,7 +1114,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_fasylvian02.jpg",
+          "src":"polaroids_etc_fasylvian02.jpg",
           "thumb":"polaroids_etc_fasylvian02T.jpg",
           "title":"1985",
           "description":"Fan art. Bamboo, Issue 7",
@@ -1122,7 +1122,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_fabamboo02.jpg",
+          "src":"polaroids_etc_fabamboo02.jpg",
           "thumb":"polaroids_etc_fabamboo02T.jpg",
           "title":"1986",
           "description":"Fan art. Bamboo, Issue 8",
@@ -1130,7 +1130,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_fatree.jpg",
+          "src":"polaroids_etc_fatree.jpg",
           "thumb":"polaroids_etc_fatreeT.jpg",
           "title":"1986",
           "description":"Fan art. Bamboo, Issue 9",
@@ -1138,7 +1138,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_fagtp.jpg",
+          "src":"polaroids_etc_fagtp.jpg",
           "thumb":"polaroids_etc_fagtpT.jpg",
           "title":"1986",
           "description":"Fan art. Bamboo, Issue 11",
@@ -1146,7 +1146,7 @@
           "attribution":""
         },
         {
-          "img":"polaroids_etc_faseb.jpg",
+          "src":"polaroids_etc_faseb.jpg",
           "thumb":"polaroids_etc_fasebT.jpg",
           "title":"1987",
           "description":"Fan art. Bamboo, Issue 12",

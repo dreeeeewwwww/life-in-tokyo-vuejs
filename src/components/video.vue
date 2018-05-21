@@ -9,8 +9,12 @@
       <div v-if="video.id" class="col-9">
         <div class="row">
           <div v-for="content in video.contents" :key="content.id" class="col-3">
-            <img :src="content.thumb" class="img-fluid mb-3"/>
+
+            <img :src="'http://img.youtube.com/vi/' + content.embed + '/mqdefault.jpg'" class="img-fluid mb-2"/>
             {{ content.title }}
+            <div class="embed-responsive embed-4by3">
+              <iframe class="embed-responsive-item" width="560" height="315" :src="'https://www.youtube.com/embed/' + content.embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
           </div>
         </div>
       </div>
