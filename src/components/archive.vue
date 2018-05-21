@@ -9,7 +9,7 @@
       <div v-if="archive.id !== 'tour-history'" class="col-9">
         <div class="row">
           <div v-for="content in archive.contents" :key="content.id" class="col-3">
-            <img :src="content.img_thumb" class="img-fluid mb-3"/>
+            <img :src="'static/images/' + content.src" class="img-fluid mb-3" data-toggle="modal" :data-target="'#modal-' + content.id" />
             {{ content.title }}
           </div>
         </div>

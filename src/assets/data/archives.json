@@ -7,8 +7,8 @@
       "contents":[
         {
           "id":"bamboo-1",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"foo",
           "issue":"1",
           "month":"July",
@@ -19,8 +19,8 @@
         },
         {
           "id":"bamboo-2",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"",
           "issue":"2",
           "month":"July",
@@ -31,8 +31,8 @@
         },
         {
           "id":"bamboo-3",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"test",
           "issue":"3",
           "month":"July",
@@ -43,8 +43,8 @@
         },
         {
           "id":"bamboo-4",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"",
           "issue":"4",
           "month":"July",
@@ -62,8 +62,8 @@
       "contents":[
         {
           "id":"book-a-foreign-place",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -74,8 +74,8 @@
         },
         {
           "id":"book-tourists-guide-to-japan",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -93,8 +93,8 @@
       "contents":[
         {
           "id":"magazine-fan-library",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -105,8 +105,8 @@
         },
         {
           "id":"magazine-ongaku-senka",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -124,8 +124,8 @@
       "contents":[
         {
           "id":"poster-1",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -136,8 +136,8 @@
         },
         {
           "id":"poster-2",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -155,8 +155,8 @@
       "contents":[
         {
           "id":"merch-1",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -167,8 +167,8 @@
         },
         {
           "id":"merch-2",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -186,8 +186,8 @@
       "contents":[
         {
           "id":"tour-sons-of-pioneers",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
@@ -198,8 +198,8 @@
         },
         {
           "id":"tour-visions-of-china",
-          "img_original":"http://4.bp.blogspot.com/-PphjBz6IHCo/U1EgkHQle2I/AAAAAAAAAdk/ZmzcwM_m_34/s1600/877f1755437ddbf0acbf6110c7b81e1e.jpg",
-          "img_thumb":"https://s-media-cache-ak0.pinimg.com/236x/86/65/0b/86650b9bc586a93a30fd4ffff440c980.jpg",
+          "src":"polaroids_japan_muddy.jpg",
+          "img_thumb":"polaroids_japan_muddy.jpg",
           "url_action":"buy",
           "year":"1982",
           "ISBN":"",
