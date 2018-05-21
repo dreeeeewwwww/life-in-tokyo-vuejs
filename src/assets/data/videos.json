@@ -59,20 +59,6 @@
           "month":"",
           "show":"",
           "venue":""
-        },
-        {
-          "embed":"WhC8LnFd2LE",
-          "title":"Visions of China",
-          "description":"foo",
-          "body":"",
-          "artist":"Japan",
-          "album":"",
-          "song":"",
-          "year":"",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
         }
       ]
     },
@@ -81,7 +67,7 @@
     "id":"live-tv",
       "contents":[
         {
-          "embed":"-9l_VH4qZ3w",
+          "embed":"Bf12rSZVb0k",
           "title":"Oil on Canvas concert film",
           "description":"A blurry show at the Hammersmith Odeon",
           "body":"<p>this was a concert at hammersmith odeon.<\/p><ul><li>Track title<\/li><li>Track title<\/li><\/ul>",

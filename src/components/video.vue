@@ -10,11 +10,24 @@
         <div class="row">
           <div v-for="content in video.contents" :key="content.id" class="col-3">
 
-            <img :src="'http://img.youtube.com/vi/' + content.embed + '/mqdefault.jpg'" class="img-fluid mb-2"/>
+            <img :src="'http://img.youtube.com/vi/' + content.embed + '/mqdefault.jpg'" class="img-fluid mb-2" data-toggle="modal" :data-target="'#modal-' + content.embed"/>
             {{ content.title }}
-            <div class="embed-responsive embed-4by3">
-              <iframe class="embed-responsive-item" width="560" height="315" :src="'https://www.youtube.com/embed/' + content.embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            <div class="modal fade video-clip" :id="'modal-' + content.embed" tabindex="-1" role="dialog" :aria-labelledby="content.title">
+              <div class="modal-dialog modal-dialog-centered modal-lg" >
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <div class="embed-responsive embed-4by3">
+                      <iframe class="embed-responsive-item" width="560" height="315" :src="'https://www.youtube.com/embed/' + content.embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                    <p>
+                      {{ content.title }}
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
+
           </div>
         </div>
       </div>
