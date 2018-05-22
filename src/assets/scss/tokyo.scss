@@ -270,22 +270,6 @@ cite{
     cursor:pointer;
   }
 }
-.grid:after {
-  content: '';
-  display: block;
-  clear: both;
-}
-.grid-sizer,
-.grid-item {
-  width: 33.333%;
-}
-.grid-item {
-  float: left;
-}
-.grid-item img {
-  display: block;
-  max-width: 100%;
-}
 
 /* CSS3 FADEIN */
 @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
