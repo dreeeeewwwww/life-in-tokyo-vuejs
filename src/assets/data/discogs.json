@@ -1,179 +1,91 @@
 {
   "discogs":[
     {
-    "name":"Japan (studio)",
-    "id":"japan_studio",
+    "id":"japan-albums",
+    "name":"Albums",
+    "body":"Japan albums",
       "contents":[
         {
-          "embed":"WhC8LnFd2LE",
-          "title":"Visions of China",
-          "description":"foo",
-          "body":"Body",
-          "artist":"Japan",
-          "album":"Tin Drum",
-          "song":"Visions of China",
-          "year":"1981",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        },
-        {
-          "embed":"e4ClCAVVyys",
-          "title":"Quiet Life",
-          "description":"1979",
-          "body":"Body",
-          "artist":"Japan",
-          "album":"Quiet Life",
-          "song":"Quiet Life",
-          "year":"1979",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        },
-        {
-          "embed":"iL5tT456B24",
-          "title":"Instant Pictures VHS",
-          "description":"VHS Comp",
-          "body":"body",
-          "artist":"Japan",
-          "album":"",
-          "song":"",
-          "year":"",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        },
-        {
-          "embed":"rISfBbgFGIY",
+          "id":"j-adolescent-ahal-8004",
+          "type":"album",
+          "format":"LP",
+          "band":"Japan",
           "title":"Adolescent Sex",
-          "description":"foo",
-          "body":"body",
-          "artist":"Japan",
-          "album":"Adolescent Sex",
-          "song":"Adolescent Sex",
+          "label":"Ariola Hansa",
+          "catalog_number":"AHAL 8004",
+          "country":"UK",
           "year":"1978",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        },
-        {
-          "embed":"WhC8LnFd2LE",
-          "title":"Visions of China",
-          "description":"foo",
-          "body":"",
-          "artist":"Japan",
-          "album":"",
-          "song":"",
-          "year":"",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        }
-      ]
-    },
-    {
-    "name":"Japan (EP)",
-    "id":"japan_ep",
-      "contents":[
-        {
-          "embed":"WhC8LnFd2LE",
-          "title":"Visions of China",
-          "description":"foo",
+          "month":"04",
+          "day":"08",
+          "credits":"Credits",
+          "description":"Description",
           "body":"Body",
-          "artist":"Japan",
-          "album":"Tin Drum",
-          "song":"Visions of China",
-          "year":"1981",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
+          "url_discogs":"https://www.discogs.com/Japan-Adolescent-Sex/release/606958",
+          "url_discogs_all":"https://www.discogs.com/Japan-Japan/master/73899",
+          "tracks":[
+            {
+              "id":"01",
+              "title":"Transmission",
+              "duration":"00:00",
+              "credit":"Sylvian"
+            },
+            {
+              "id":"02",
+              "title":"The Unconventional",
+              "duration":"00:00",
+              "credit":""
+            },
+            {
+              "id":"03",
+              "title":"Wish You Were Black",
+              "duration":"00:00",
+              "credit":""
+            },
+            {
+              "id":"04",
+              "title":"Performance",
+              "duration":"00:00",
+              "credit":""
+            },
+            {
+              "id":"05",
+              "title":"Lovers On Main Street",
+              "duration":"00:00",
+              "credit":""
+            },
+            {
+              "id":"06",
+              "title":"Don't Rain On My Parade",
+              "duration":"00:00",
+              "credit":""
+            },
+            {
+              "id":"07",
+              "title":"Suburban Love",
+              "duration":"00:00",
+              "credit":""
+            },
+            {
+              "id":"08",
+              "title":"Adolescent Sex",
+              "duration":"00:00",
+              "credit":""
+            },
+            {
+              "id":"09",
+              "title":"Communist China",
+              "duration":"00:00",
+              "credit":""
+            },
+            {
+              "id":"10",
+              "title":"Television",
+              "duration":"00:00",
+              "credit":""
+            }
+          ]
         }
-      ]
-    },
-    {
-    "name":"Japan (Single)",
-    "id":"japan_single",
-      "contents":[
-        {
-          "embed":"WhC8LnFd2LE",
-          "title":"Visions of China",
-          "description":"foo",
-          "body":"Body",
-          "artist":"Japan",
-          "album":"Tin Drum",
-          "song":"Visions of China",
-          "year":"1981",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        }
-      ]
-    },
-    {
-    "name":"Japan (Compilation)",
-    "id":"japan_compilation",
-      "contents":[
-        {
-          "embed":"WhC8LnFd2LE",
-          "title":"Visions of China",
-          "description":"foo",
-          "body":"Body",
-          "artist":"Japan",
-          "album":"Tin Drum",
-          "song":"Visions of China",
-          "year":"1981",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        }
-      ]
-    },
-    {
-    "name":"David Sylvian",
-    "id":"discog_sylvian",
-      "contents":[
-        {
-          "embed":"WhC8LnFd2LE",
-          "title":"Visions of China",
-          "description":"foo",
-          "body":"Body",
-          "artist":"Japan",
-          "album":"Tin Drum",
-          "song":"Visions of China",
-          "year":"1981",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        }
-      ]
-    },
-    {
-    "name":"Mick Karn",
-    "id":"japan_ep",
-      "contents":[
-        {
-          "embed":"WhC8LnFd2LE",
-          "title":"Visions of China",
-          "description":"foo",
-          "body":"Body",
-          "artist":"Japan",
-          "album":"Tin Drum",
-          "song":"Visions of China",
-          "year":"1981",
-          "day":"",
-          "month":"",
-          "show":"",
-          "venue":""
-        }
+
       ]
     }
   ]
