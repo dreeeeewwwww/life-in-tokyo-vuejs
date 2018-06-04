@@ -1,9 +1,8 @@
 <template>
   <div class="">
     <h1>{{ msg }}</h1>
-
-    <div v-for="image in data.images" :key="image.id" class="row mb-3 pb-3">
-
+    <div class="row">
+      <div v-for="image in data.images" :key="image.id" class="col-12">
         <div class="card-columns">
           <div v-for="content in image.contents" :key="content.id" class="card">
             <img :src="'static/images/' + content.src" class="card-img" data-toggle="modal" :data-target="'#modal-' + content.id" />
@@ -23,8 +22,8 @@
 
           </div>
         </div>
+      </div>
     </div>
-
   </div>
 </template>
 
